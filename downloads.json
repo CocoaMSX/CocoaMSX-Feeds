@@ -1,0 +1,3030 @@
+{
+  "lastModified" : "Fri Feb 12 12:15:30 PST 2016",
+  "downloadRoot" : "http://www.vik.cc/bluemsx/src/",
+  "machines" :
+  [
+    {
+      "id" : "MSX - Al Alamiah AX-100",
+      "system" : "MSX",
+      "name" : "Al Alamiah AX-100",
+      "file" : "MSX - Al Alamiah AX-100.zip",
+      "md5" : "0311b08f68feb60bda401b77637ce0f9",
+      "version" : 2
+    },
+	{
+      "id" : "MSX - Al Alamiah AX-150",
+      "system" : "MSX",
+      "name" : "Al Alamiah AX-150",
+      "file" : "MSX - Al Alamiah AX-150.zip",
+      "md5" : "d2b56fb92e06115c8786f8904f8a13e9",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Al Alamiah AX-170",
+      "system" : "MSX",
+      "name" : "Al Alamiah AX-170",
+      "file" : "MSX - Al Alamiah AX-170.zip",
+      "md5" : "bd7c0383e01229c9a462146772a3e4c8",
+      "version" : 2
+    },
+	{
+      "id" : "MSX - Al Alamiah AX-200",
+      "system" : "MSX",
+      "name" : "Al Alamiah AX-200",
+      "file" : "MSX - Al Alamiah AX-200.zip",
+      "md5" : "2567db3b4e705173d20ec47db6b4637a",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Arabic",
+      "system" : "MSX",
+      "name" : "Arabic",
+      "file" : "MSX - Arabic.zip",
+      "md5" : "d0904967c111f790ed6b6b3362d8dde7",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Brazilian",
+      "system" : "MSX",
+      "name" : "Brazilian",
+      "file" : "MSX - Brazilian.zip",
+      "md5" : "53da106fd825b3aed2be7c15a9ba376a",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Canon V-10",
+      "system" : "MSX",
+      "name" : "Canon V-10",
+      "file" : "MSX - Canon V-10.zip",
+      "md5" : "cb35e82a3c9cbdfdc49bd5bf3a40658e",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Canon V-20",
+      "system" : "MSX",
+      "name" : "Canon V-20",
+      "file" : "MSX - Canon V-20.zip",
+      "md5" : "d020a075a6d7bfe1a301b1cece7be49e",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Canon V-20E",
+      "system" : "MSX",
+      "name" : "Canon V-20E",
+      "file" : "MSX - Canon V-20E.zip",
+      "md5" : "6f77af000dfd3f01533c43cec0ad9a93",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Canon V-20F",
+      "system" : "MSX",
+      "name" : "Canon V-20F",
+      "file" : "MSX - Canon V-20F.zip",
+      "md5" : "97490317d563c6959bdfa530a405d2c8",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Canon V-20G",
+      "system" : "MSX",
+      "name" : "Canon V-20G",
+      "file" : "MSX - Canon V-20G.zip",
+      "md5" : "388445192a84f1e9c94e9d6245a1a1de",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Canon V-20S",
+      "system" : "MSX",
+      "name" : "Canon V-20S",
+      "file" : "MSX - Canon V-20S.zip",
+      "md5" : "ce82e24006aee7289475b92fe4545627",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Canon V-8",
+      "system" : "MSX",
+      "name" : "Canon V-8",
+      "file" : "MSX - Canon V-8.zip",
+      "md5" : "df013d58e89ae746c0aec080c5a10778",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Casio MX-10",
+      "system" : "MSX",
+      "name" : "Casio MX-10",
+      "file" : "MSX - Casio MX-10.zip",
+      "md5" : "d6db33298427c6d9b7cfb5cdcab0d96a",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Casio MX-15",
+      "system" : "MSX",
+      "name" : "Casio MX-15",
+      "file" : "MSX - Casio MX-15.zip",
+      "md5" : "6acce915f48fcced8c94c18aff48ad85",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Casio MX-101",
+      "system" : "MSX",
+      "name" : "Casio MX-101",
+      "file" : "MSX - Casio MX-101.zip",
+      "md5" : "dd4c7c67522bc46dfe835d0976687968",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Casio PV-16",
+      "system" : "MSX",
+      "name" : "Casio PV-16",
+      "file" : "MSX - Casio PV-16.zip",
+      "md5" : "ecf94d7a78951338abcdeb8f35ece7e2",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Casio PV-7",
+      "system" : "MSX",
+      "name" : "Casio PV-7",
+      "file" : "MSX - Casio PV-7.zip",
+      "md5" : "07cacefbea132c6dae80503541c4201e",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Casio PV-7 + KB-7",
+      "system" : "MSX",
+      "name" : "Casio PV-7 + KB-7",
+      "file" : "MSX - Casio PV-7 + KB-7.zip",
+      "md5" : "a73a9196b9705d1ddde89f822150d3df",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Daewoo CPC-88",
+      "system" : "MSX",
+      "name" : "Daewoo CPC-88",
+      "file" : "MSX - Daewoo CPC-88.zip",
+      "md5" : "fe09c1e20f4498e7f8f32c1e58f773ad",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Daewoo DPC-100",
+      "system" : "MSX",
+      "name" : "Daewoo DPC-100",
+      "file" : "MSX - Daewoo DPC-100.zip",
+      "md5" : "c4ccce79199c8d3fada38cca8d2a1720",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Daewoo DPC-180",
+      "system" : "MSX",
+      "name" : "Daewoo DPC-180",
+      "file" : "MSX - Daewoo DPC-180.zip",
+      "md5" : "41d7d2173e1953c04dbd93b127b84342",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Daewoo DPC-200",
+      "system" : "MSX",
+      "name" : "Daewoo DPC-200",
+      "file" : "MSX - Daewoo DPC-200.zip",
+      "md5" : "0901f97aefe4df87e4640ba9eaa74974",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Daewoo DPC-200E",
+      "system" : "MSX",
+      "name" : "Daewoo DPC-200E",
+      "file" : "MSX - Daewoo DPC-200E.zip",
+      "md5" : "b672474580f010ea45f947f26d1189f5",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Daewoo Zemmix CPC-50A",
+      "system" : "MSX",
+      "name" : "Daewoo Zemmix CPC-50A",
+      "file" : "MSX - Daewoo Zemmix CPC-50A.zip",
+      "md5" : "c8d5b35177e20d2c178f4a211cd8a78c",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Daewoo Zemmix CPC-50B",
+      "system" : "MSX",
+      "name" : "Daewoo Zemmix CPC-50B",
+      "file" : "MSX - Daewoo Zemmix CPC-50B.zip",
+      "md5" : "5bbd2bf68486c597c964406310ef4d5b",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Daewoo Zemmix CPC-51",
+      "system" : "MSX",
+      "name" : "Daewoo Zemmix CPC-51",
+      "file" : "MSX - Daewoo Zemmix CPC-51.zip",
+      "md5" : "fda258fb1d6dbfc132e2ac1c76bf657d",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Danish",
+      "system" : "MSX",
+      "name" : "Danish",
+      "file" : "MSX - Danish.zip",
+      "md5" : "0356ad6ddd0f8028677ace95e4ede652",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Dragon MSX-64",
+      "system" : "MSX",
+      "name" : "Dragon MSX-64",
+      "file" : "MSX - Dragon MSX-64.zip",
+      "md5" : "2f7cc94444d7c7f68b4c0f9b72a09a1b",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Estonian",
+      "system" : "MSX",
+      "name" : "Estonian",
+      "file" : "MSX - Estonian.zip",
+      "md5" : "1a9ce79976c0704df0646ad9bf00e717",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - European",
+      "system" : "MSX",
+      "name" : "European",
+      "file" : "MSX - European.zip",
+      "md5" : "c17af8331383ce62f50fbf66f3903b38",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Fenner DPC-200",
+      "system" : "MSX",
+      "name" : "Fenner DPC-200",
+      "file" : "MSX - Fenner DPC-200.zip",
+      "md5" : "bc0268f294cb5f9317861cc44ba3f861",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Fenner FPC-500",
+      "system" : "MSX",
+      "name" : "Fenner FPC-500",
+      "file" : "MSX - Fenner FPC-500.zip",
+      "md5" : "d7cc1d73d9b7b210e9ffcf517498f488",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Fenner SPC-800",
+      "system" : "MSX",
+      "name" : "Fenner SPC-800",
+      "file" : "MSX - Fenner SPC-800.zip",
+      "md5" : "42465c939ea6055a2f5cfbaefd839bbf",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Frael Bruc 100-1",
+      "system" : "MSX",
+      "name" : "Frael Bruc 100-1",
+      "file" : "MSX - Frael Bruc 100-1.zip",
+      "md5" : "8321974fb9b1fa5c117bbeffc454c4a7",
+      "version" : 2
+    },
+	{
+      "id" : "MSX - Frael Bruc 100-2",
+      "system" : "MSX",
+      "name" : "Frael Bruc 100-2",
+      "file" : "MSX - Frael Bruc 100-2.zip",
+      "md5" : "9e6f464d16165da3acfd39390db83a1b",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - French",
+      "system" : "MSX",
+      "name" : "French",
+      "file" : "MSX - French.zip",
+      "md5" : "f917293eab984f7c49cb51b9e7e80e9b",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Fujitsu FM-X",
+      "system" : "MSX",
+      "name" : "Fujitsu FM-X",
+      "file" : "MSX - Fujitsu FM-X.zip",
+      "md5" : "51152850771f921de24c3871c076c692",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - German",
+      "system" : "MSX",
+      "name" : "German",
+      "file" : "MSX - German.zip",
+      "md5" : "9ba0c6c4579b19bf8db10b20ee69967b",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Goldstar FC-80U",
+      "system" : "MSX",
+      "name" : "Goldstar FC-80U",
+      "file" : "MSX - Goldstar FC-80U.zip",
+      "md5" : "e39eaaaaff2a2589b110b9dea3a27a06",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Goldstar FC-200",
+      "system" : "MSX",
+      "name" : "Goldstar FC-200",
+      "file" : "MSX - Goldstar FC-200.zip",
+      "md5" : "f3315a2ee040b67448512931ca589eb3",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Goldstar GFC-1080",
+      "system" : "MSX",
+      "name" : "Goldstar GFC-1080",
+      "file" : "MSX - Goldstar GFC-1080.zip",
+      "md5" : "b78eac4cbe20578aa126596fe7034939",
+      "version" : 1
+    },    {
+      "id" : "MSX - Goldstar GFC-1080A",
+      "system" : "MSX",
+      "name" : "Goldstar GFC-1080A",
+      "file" : "MSX - Goldstar GFC-1080A.zip",
+      "md5" : "a23c630872c2ae42e3b65bec1a63907e",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Gradiente Expert DDPlus",
+      "system" : "MSX",
+      "name" : "Gradiente Expert DDPlus",
+      "file" : "MSX - Gradiente Expert DDPlus.zip",
+      "md5" : "72ac3c98644e3db0c1bf2a4fefee9347",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Gradiente Expert GPC-11",
+      "system" : "MSX",
+      "name" : "Gradiente Expert GPC-11",
+      "file" : "MSX - Gradiente Expert GPC-11.zip",
+      "md5" : "b0dae8387742cdc4c081705c9ab77939",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Gradiente Expert GPC-13",
+      "system" : "MSX",
+      "name" : "Gradiente Expert GPC-13",
+      "file" : "MSX - Gradiente Expert GPC-13.zip",
+      "md5" : "3e61dd2bd53cc9ffbd0a60d244655c49",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Gradiente Expert Plus",
+      "system" : "MSX",
+      "name" : "Gradiente Expert Plus",
+      "file" : "MSX - Gradiente Expert Plus.zip",
+      "md5" : "d1bcef3b89fba46d4259f207a962cf46",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Gradiente Expert XP-800",
+      "system" : "MSX",
+      "name" : "Gradiente Expert XP-800",
+      "file" : "MSX - Gradiente Expert XP-800.zip",
+      "md5" : "1ba0284c65515c01e41cad00fa667145",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Hitachi MB-H1",
+      "system" : "MSX",
+      "name" : "Hitachi MB-H1",
+      "file" : "MSX - Hitachi MB-H1.zip",
+      "md5" : "79243688357bfc99886d3f6a62b31039",
+      "version" : 2
+    },
+	{
+      "id" : "MSX - Hitachi MB-H1E",
+      "system" : "MSX",
+      "name" : "Hitachi MB-H1E",
+      "file" : "MSX - Hitachi MB-H1E.zip",
+      "md5" : "093c546bc6049cdb47fcd214d1ec47e0",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Hitachi MB-H2",
+      "system" : "MSX",
+      "name" : "Hitachi MB-H2",
+      "file" : "MSX - Hitachi MB-H2.zip",
+      "md5" : "e0f7af77ef282484382d25fc060625b8",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Hitachi MB-H25",
+      "system" : "MSX",
+      "name" : "Hitachi MB-H25",
+      "file" : "MSX - Hitachi MB-H25.zip",
+      "md5" : "a774f280072bd3109d831e8427a263c0",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Hitachi MB-H50",
+      "system" : "MSX",
+      "name" : "Hitachi MB-H50",
+      "file" : "MSX - Hitachi MB-H50.zip",
+      "md5" : "951fa7b81d9f17c55f03c91fb1598206",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Japanese",
+      "system" : "MSX",
+      "name" : "Japanese",
+      "file" : "MSX - Japanese.zip",
+      "md5" : "bebbfa4fbbc77b091039148ae9b4ab8f",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - JVC HC-7GB",
+      "system" : "MSX",
+      "name" : "JVC HC-7GB",
+      "file" : "MSX - JVC HC-7GB.zip",
+      "md5" : "237350f29988b35596f7331f20430956",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Korean",
+      "system" : "MSX",
+      "name" : "Korean",
+      "file" : "MSX - Korean.zip",
+      "md5" : "58d32809c310ab4bd4c27a532ce6ab9d",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Mitsubishi ML-F110",
+      "system" : "MSX",
+      "name" : "Mitsubishi ML-F110",
+      "file" : "MSX - Mitsubishi ML-F110.zip",
+      "md5" : "b62485826ec3c7aee4823b71cbfa4a1a",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Mitsubishi ML-F120",
+      "system" : "MSX",
+      "name" : "Mitsubishi ML-F120",
+      "file" : "MSX - Mitsubishi ML-F120.zip",
+      "md5" : "c7b85fc986a9b0247dd9a3a88df5f4ae",
+      "version" : 3
+    },
+	{
+      "id" : "MSX - Mitsubishi ML-F120 (m)",
+      "system" : "MSX",
+      "name" : "Mitsubishi ML-F120 (m)",
+      "file" : "MSX - Mitsubishi ML-F120 (m).zip",
+      "md5" : "d9457b7ecc2dc7be05e975047f9e30e3",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Mitsubishi ML-F48",
+      "system" : "MSX",
+      "name" : "Mitsubishi ML-F48",
+      "file" : "MSX - Mitsubishi ML-F48.zip",
+      "md5" : "cb57f4bb6b438d3d3648db45f823ec1f",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Mitsubishi ML-F80",
+      "system" : "MSX",
+      "name" : "Mitsubishi ML-F80",
+      "file" : "MSX - Mitsubishi ML-F80.zip",
+      "md5" : "ab93dd7bb4f26c21aa908be00fc4ff91",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Mitsubishi ML-F80F",
+      "system" : "MSX",
+      "name" : "Mitsubishi ML-F80F",
+      "file" : "MSX - Mitsubishi ML-F80F.zip",
+      "md5" : "18e634937e72ea60dc916cb79513a231",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Mitsubishi ML-FX1",
+      "system" : "MSX",
+      "name" : "Mitsubishi ML-FX1",
+      "file" : "MSX - Mitsubishi ML-FX1.zip",
+      "md5" : "2ad6a44309181c1c78ed75083780b6a3",
+      "version" : 2
+    },
+	{
+      "id" : "MSX - Mitsubishi ML-FX2",
+      "system" : "MSX",
+      "name" : "Mitsubishi ML-FX2",
+      "file" : "MSX - Mitsubishi ML-FX2.zip",
+      "md5" : "36ade04782fc8ee12c9fc8c205ece321",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - National CF-1200",
+      "system" : "MSX",
+      "name" : "National CF-1200",
+      "file" : "MSX - National CF-1200.zip",
+      "md5" : "90fae8dc3facfcfa27a22c11be09f1e3",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - National CF-2000",
+      "system" : "MSX",
+      "name" : "National CF-2000",
+      "file" : "MSX - National CF-2000.zip",
+      "md5" : "517106eda8855a4919eac25afd2aa70d",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - National CF-2700",
+      "system" : "MSX",
+      "name" : "National CF-2700",
+      "file" : "MSX - National CF-2700.zip",
+      "md5" : "71bcd4fd6fb47c1c0f1a0bc3ee295c13",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - National CF-2700 (a)",
+      "system" : "MSX",
+      "name" : "National CF-2700 (a)",
+      "file" : "MSX - National CF-2700 (a).zip",
+      "md5" : "8c6affc35b0649ec31096a156db47747",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - National CF-3000",
+      "system" : "MSX",
+      "name" : "National CF-3000",
+      "file" : "MSX - National CF-3000.zip",
+      "md5" : "3e8f201b61a187d44744279a2c0c61b7",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - National CF-3300",
+      "system" : "MSX",
+      "name" : "National CF-3300",
+      "file" : "MSX - National CF-3300.zip",
+      "md5" : "36c7f38ffe4b0a9a5afd7e425f221911",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - National FS-1300",
+      "system" : "MSX",
+      "name" : "National FS-1300",
+      "file" : "MSX - National FS-1300.zip",
+      "md5" : "98877073bae720244fa74747ca3882ee",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - National FS-4000",
+      "system" : "MSX",
+      "name" : "National FS-4000",
+      "file" : "MSX - National FS-4000.zip",
+      "md5" : "c2be4ff9f0b70a8b07a7d4a4844c52f4",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - National FS-4000 (a)",
+      "system" : "MSX",
+      "name" : "National FS-4000 (a)",
+      "file" : "MSX - National FS-4000 (a).zip",
+      "md5" : "1e3921decba4b63fb51eb4da57272c4b",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Olympia PHC-2",
+      "system" : "MSX",
+      "name" : "Olympia PHC-2",
+      "file" : "MSX - Olympia PHC-2.zip",
+      "md5" : "124e40573325bbc1d1f9b6a5c586aa90",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Olympia PHC-28",
+      "system" : "MSX",
+      "name" : "Olympia PHC-28",
+      "file" : "MSX - Olympia PHC-28.zip",
+      "md5" : "21a420fb1a14c7006d6f71644eea2af2",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Panasonic CF-2700",
+      "system" : "MSX",
+      "name" : "Panasonic CF-2700",
+      "file" : "MSX - Panasonic CF-2700.zip",
+      "md5" : "9aec8fa8ac8ded07db24b41e96fbe659",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Panasonic CF-2700G",
+      "system" : "MSX",
+      "name" : "Panasonic CF-2700G",
+      "file" : "MSX - Panasonic CF-2700G.zip",
+      "md5" : "04452dd348a540af5950ee07a6a8864e",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Perfect MSX-1",
+      "system" : "MSX",
+      "name" : "Perfect MSX-1",
+      "file" : "MSX - Perfect MSX-1.zip",
+      "md5" : "51a49568fab5900e6d38449ec8d20460",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Philips NMS-801",
+      "system" : "MSX",
+      "name" : "Philips NMS-801",
+      "file" : "MSX - Philips NMS-801.zip",
+      "md5" : "277b3cdd43e75c88beb1c2f51166e0a9",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Philips VG-8000",
+      "system" : "MSX",
+      "name" : "Philips VG-8000",
+      "file" : "MSX - Philips VG-8000.zip",
+      "md5" : "11ef31bbdcbce4346722bb3236208cdb",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Philips VG-8010",
+      "system" : "MSX",
+      "name" : "Philips VG-8010",
+      "file" : "MSX - Philips VG-8010.zip",
+      "md5" : "bcf96a4ae1ae5fd50c3622ad2818b10e",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Philips VG-8010F",
+      "system" : "MSX",
+      "name" : "Philips VG-8010F",
+      "file" : "MSX - Philips VG-8010F.zip",
+      "md5" : "2815a96ee1cb9704b8d249cf797dbce6",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Philips VG-8020-00",
+      "system" : "MSX",
+      "name" : "Philips VG-8020-00",
+      "file" : "MSX - Philips VG-8020-00.zip",
+      "md5" : "70d71a80a00bdc5dba627a775330cd0c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Philips VG-8020-20",
+      "system" : "MSX",
+      "name" : "Philips VG-8020-20",
+      "file" : "MSX - Philips VG-8020-20.zip",
+      "md5" : "2cd28284268d995d64b68600e85116b9",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Philips VG-8020F",
+      "system" : "MSX",
+      "name" : "Philips VG-8020F",
+      "file" : "MSX - Philips VG-8020F.zip",
+      "md5" : "aac96e25a9eeedeebd03f83821ce915b",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Pioneer PX-7",
+      "system" : "MSX",
+      "name" : "Pioneer PX-7",
+      "file" : "MSX - Pioneer PX-7.zip",
+      "md5" : "2f8140bd3aa43cb28a3f516925f0d7d1",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Pioneer PX-7UK",
+      "system" : "MSX",
+      "name" : "Pioneer PX-7UK",
+      "file" : "MSX - Pioneer PX-7UK.zip",
+      "md5" : "a43729db2d7d66c6784865e52b2fcabc",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Pioneer PX-V60",
+      "system" : "MSX",
+      "name" : "Pioneer PX-V60",
+      "file" : "MSX - Pioneer PX-V60.zip",
+      "md5" : "0f7e9efbee85af895eb5531463c4beb6",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Polish",
+      "system" : "MSX",
+      "name" : "Polish",
+      "file" : "MSX - Polish.zip",
+      "md5" : "7821cf1dd6c4531dcf41ef953327f9ef",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Russian",
+      "system" : "MSX",
+      "name" : "Russian",
+      "file" : "MSX - Russian.zip",
+      "md5" : "4622c0f7d3c5a1f8228690c60d98ce97",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Samsung SPC-800",
+      "system" : "MSX",
+      "name" : "Samsung SPC-800",
+      "file" : "MSX - Samsung SPC-800.zip",
+      "md5" : "f51fc14f46d4c746a6b58b911feb0f9e",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Sanyo MPC-10",
+      "system" : "MSX",
+      "name" : "Sanyo MPC-10",
+      "file" : "MSX - Sanyo MPC-10.zip",
+      "md5" : "1b7ff32dbb9b250fc86b594bf515fa4a",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sanyo MPC-100",
+      "system" : "MSX",
+      "name" : "Sanyo MPC-100",
+      "file" : "MSX - Sanyo MPC-100.zip",
+      "md5" : "4e0869e1f140b03e865b089b7f644255",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sanyo MPC-200",
+      "system" : "MSX",
+      "name" : "Sanyo MPC-200",
+      "file" : "MSX - Sanyo MPC-200.zip",
+      "md5" : "3fbdb07c6d0ecdfa3b06909613734b18",
+      "version" : 2
+    },
+	{
+      "id" : "MSX - Sanyo MPC-5",
+      "system" : "MSX",
+      "name" : "Sanyo MPC-5",
+      "file" : "MSX - Sanyo MPC-5.zip",
+      "md5" : "cbb19c6e7cdde1df706c6860c06f919d",
+      "version" : 1
+    },
+		{
+      "id" : "MSX - Sanyo MPC-6",
+      "system" : "MSX",
+      "name" : "Sanyo MPC-6",
+      "file" : "MSX - Sanyo MPC-6.zip",
+      "md5" : "5f7addf726501602e65548992a217f84",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sanyo MPC-64",
+      "system" : "MSX",
+      "name" : "Sanyo MPC-64",
+      "file" : "MSX - Sanyo MPC-64.zip",
+      "md5" : "e16f477b487cb958aef5bc8b2728244f",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sanyo PHC-28L",
+      "system" : "MSX",
+      "name" : "Sanyo PHC-28L",
+      "file" : "MSX - Sanyo PHC-28L.zip",
+      "md5" : "73b6729527a1221c5d580d86a8dc6ac6",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Sanyo PHC-28P",
+      "system" : "MSX",
+      "name" : "Sanyo PHC-28P",
+      "file" : "MSX - Sanyo PHC-28P.zip",
+      "md5" : "edc6d7b672c26f6134c05243387bada0",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sanyo PHC-28S",
+      "system" : "MSX",
+      "name" : "Sanyo PHC-28S",
+      "file" : "MSX - Sanyo PHC-28S.zip",
+      "md5" : "28eb19c156174ab63a8a7e6d5f579b5e",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sharp HB-8000-11",
+      "system" : "MSX",
+      "name" : "Sharp HB-8000-11",
+      "file" : "MSX - Sharp HB-8000-11.zip",
+      "md5" : "2f42bc3baa322f300ec067ab0dd8a0e0",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sharp HB-8000-12",
+      "system" : "MSX",
+      "name" : "Sharp HB-8000-12",
+      "file" : "MSX - Sharp HB-8000-12.zip",
+      "md5" : "277d078c69c73a48c0835422d9ca5242",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sharp HB-8000-13b",
+      "system" : "MSX",
+      "name" : "Sharp HB-8000-13b",
+      "file" : "MSX - Sharp HB-8000-13b.zip",
+      "md5" : "6101bbb8154f87b01af70eb75f4b7e85",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sharp HB-8000-13p",
+      "system" : "MSX",
+      "name" : "Sharp HB-8000-13p",
+      "file" : "MSX - Sharp HB-8000-13p.zip",
+      "md5" : "3bead5ad9c0f577485982e34f00b617f",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Sharp HB-8000-14",
+      "system" : "MSX",
+      "name" : "Sharp HB-8000-14",
+      "file" : "MSX - Sharp HB-8000-14.zip",
+      "md5" : "ac3b541cd7137aa67363bc4d97ee141c",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Sincorp SBX",
+      "system" : "MSX",
+      "name" : "Sincorp SBX",
+      "file" : "MSX - Sincorp SBX.zip",
+      "md5" : "6a432bfdb295c38c7b3b04fb18d83ca8",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-10",
+      "system" : "MSX",
+      "name" : "Sony HB-10",
+      "file" : "MSX - Sony HB-10.zip",
+      "md5" : "faa48cd082a5f2225427e2537169492c",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Sony HB-101",
+      "system" : "MSX",
+      "name" : "Sony HB-101",
+      "file" : "MSX - Sony HB-101.zip",
+      "md5" : "7acdcde6449e4c1eb188cd0260f24b46",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-101P",
+      "system" : "MSX",
+      "name" : "Sony HB-101P",
+      "file" : "MSX - Sony HB-101P.zip",
+      "md5" : "fcd90d5d600c95ef7c37e6f38c2f7e5f",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-10P",
+      "system" : "MSX",
+      "name" : "Sony HB-10P",
+      "file" : "MSX - Sony HB-10P.zip",
+      "md5" : "4bde925673bd3f6b875acce1fc97b7dd",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-201",
+      "system" : "MSX",
+      "name" : "Sony HB-201",
+      "file" : "MSX - Sony HB-201.zip",
+      "md5" : "31a8391946f486b1594c33e429c6256e",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-201P",
+      "system" : "MSX",
+      "name" : "Sony HB-201P",
+      "file" : "MSX - Sony HB-201P.zip",
+      "md5" : "ea026d121c3c28d6cbdd823131841a5e",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-20P",
+      "system" : "MSX",
+      "name" : "Sony HB-20P",
+      "file" : "MSX - Sony HB-20P.zip",
+      "md5" : "23c69725937a0b4ad1ef6cdb350b2c88",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-501P",
+      "system" : "MSX",
+      "name" : "Sony HB-501P",
+      "file" : "MSX - Sony HB-501P.zip",
+      "md5" : "e2d4a945a3fa1bf608bb13aacac82142",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-55 Version 1",
+      "system" : "MSX",
+      "name" : "Sony HB-55D",
+      "file" : "MSX - Sony HB-55 Version 1.zip",
+      "md5" : "a5d65c5142281f154b9fc673ea9bc57f",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-55P",
+      "system" : "MSX",
+      "name" : "Sony HB-55P",
+      "file" : "MSX - Sony HB-55P.zip",
+      "md5" : "fd95d5945961675ff5ac6703287f3180",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Sony HB-701",
+      "system" : "MSX",
+      "name" : "Sony HB-701",
+      "file" : "MSX - Sony HB-701.zip",
+      "md5" : "f43cf8fa6e8dbf15c05a7ceabee78fce",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-701FD",
+      "system" : "MSX",
+      "name" : "Sony HB-701FD",
+      "file" : "MSX - Sony HB-701FD.zip",
+      "md5" : "8059a00a95b1d6282c443390d014447b",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Sony HB-75D",
+      "system" : "MSX",
+      "name" : "Sony HB-75D",
+      "file" : "MSX - Sony HB-75D.zip",
+      "md5" : "06ed78ff9fd882db6806156f8a8bd7a0",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Sony HB-75P",
+      "system" : "MSX",
+      "name" : "Sony HB-75P",
+      "file" : "MSX - Sony HB-75P.zip",
+      "md5" : "c92ae50978e8bed5b927a91fe92be2f9",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Spanish",
+      "system" : "MSX",
+      "name" : "Spanish",
+      "file" : "MSX - Spanish.zip",
+      "md5" : "0a603cce5aeb1dc7df7a4f950024ee5b",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-728",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-728",
+      "file" : "MSX - Spectravideo SVI-728.zip",
+      "md5" : "034c637c887410b5c70707183676e1ec",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Spectravideo SVI-728 Arabic",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-728 Arabic",
+      "file" : "MSX - Spectravideo SVI-728 Arabic.zip",
+      "md5" : "43995185d9ec8df80eed64d861772a8c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-728 Danish",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-728 Danish",
+      "file" : "MSX - Spectravideo SVI-728 Danish.zip",
+      "md5" : "c145226ed704bf381d5395266f21570d",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Spectravideo SVI-728 Spanish",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-728 Spanish",
+      "file" : "MSX - Spectravideo SVI-728 Spanish.zip",
+      "md5" : "c2ab3adc37ae91108601cb07c0788f33",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-728 Swedish",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-728 Swedish",
+      "file" : "MSX - Spectravideo SVI-728 Swedish.zip",
+      "md5" : "24793f3ee4531c696c97013ed96a9c24",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-738",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-738",
+      "file" : "MSX - Spectravideo SVI-738.zip",
+      "md5" : "22119e036c52386f81239fad7c87d50c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-738 Arabic",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-738 Arabic",
+      "file" : "MSX - Spectravideo SVI-738 Arabic.zip",
+      "md5" : "b5419d9ac672fcaeb9e4412d0706706a",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-738 Danish",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-738 Danish",
+      "file" : "MSX - Spectravideo SVI-738 Danish.zip",
+      "md5" : "2960202563b530765eb28ee8c1b0df2f",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-738 Henrik Gilvad",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-738 Henrik Gilvad",
+      "file" : "MSX - Spectravideo SVI-738 Henrik Gilvad.zip",
+      "md5" : "75063713d59a44408e67ebe81ceea677",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-738 Polish",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-738 Polish",
+      "file" : "MSX - Spectravideo SVI-738 Polish.zip",
+      "md5" : "3c47040d736e3a463c3398170a722a2a",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-738 Spanish",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-738 Spanish",
+      "file" : "MSX - Spectravideo SVI-738 Spanish.zip",
+      "md5" : "48e3db3d2d567a8f41af96752a232838",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-738 Swedish",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-738 Swedish",
+      "file" : "MSX - Spectravideo SVI-738 Swedish.zip",
+      "md5" : "14a4eae675b556d470d57ede237930f6",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Spectravideo SVI-838",
+      "system" : "MSX",
+      "name" : "Spectravideo SVI-838",
+      "file" : "MSX - Spectravideo SVI-838.zip",
+      "md5" : "f1d4b95efc14c4f14ef705d34b4f96e0",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Swedish",
+      "system" : "MSX",
+      "name" : "Swedish",
+      "file" : "MSX - Swedish.zip",
+      "md5" : "f70e32425828788ee00454a54e8df568",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Talent DPC-200",
+      "system" : "MSX",
+      "name" : "Talent DPC-200",
+      "file" : "MSX - Talent DPC-200.zip",
+      "md5" : "d9a02d69313200d784afda4e71cff17c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Talent DPC-200A",
+      "system" : "MSX",
+      "name" : "Talent DPC-200A",
+      "file" : "MSX - Talent DPC-200A.zip",
+      "md5" : "1387d56979454bb73c2cee9583baf703",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Toshiba HX-10",
+      "system" : "MSX",
+      "name" : "Toshiba HX-10",
+      "file" : "MSX - Toshiba HX-10.zip",
+      "md5" : "40a0ecae78dc44790dd453532596e9e9",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Toshiba HX-10D",
+      "system" : "MSX",
+      "name" : "Toshiba HX-10D",
+      "file" : "MSX - Toshiba HX-10D.zip",
+      "md5" : "c8e4b430375fd9910978c6536e7201c9",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Toshiba HX-10DP",
+      "system" : "MSX",
+      "name" : "Toshiba HX-10DP",
+      "file" : "MSX - Toshiba HX-10DP.zip",
+      "md5" : "d55ee157ef65f2f3bf667acf37d67314",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Toshiba HX-10E",
+      "system" : "MSX",
+      "name" : "Toshiba HX-10E",
+      "file" : "MSX - Toshiba HX-10E.zip",
+      "md5" : "e535069e1cabd62a5a44563727db1b06",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Toshiba HX-10S",
+      "system" : "MSX",
+      "name" : "Toshiba HX-10S",
+      "file" : "MSX - Toshiba HX-10S.zip",
+      "md5" : "85e25b4033cfa1c2e3224583d25502c1",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Toshiba HX-10SA",
+      "system" : "MSX",
+      "name" : "Toshiba HX-10SA",
+      "file" : "MSX - Toshiba HX-10SA.zip",
+      "md5" : "d546c90962c77d9018c8d5c8a1e83930",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Toshiba HX-20",
+      "system" : "MSX",
+      "name" : "Toshiba HX-20",
+      "file" : "MSX - Toshiba HX-20.zip",
+      "md5" : "298e94d6cad65d806346110f7a1fef9c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Toshiba HX-20I",
+      "system" : "MSX",
+      "name" : "Toshiba HX-20I",
+      "file" : "MSX - Toshiba HX-20I.zip",
+      "md5" : "c15619332dce5ca3b54b0ac87cb75bb3",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Toshiba HX-21",
+      "system" : "MSX",
+      "name" : "Toshiba HX-21",
+      "file" : "MSX - Toshiba HX-21.zip",
+      "md5" : "122c595e85f83c9e158461c7a86d3aa7",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Toshiba HX-22",
+      "system" : "MSX",
+      "name" : "Toshiba HX-22",
+      "file" : "MSX - Toshiba HX-22.zip",
+      "md5" : "180cc844eee2b6c71a9f834f13574634",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Toshiba HX-22I",
+      "system" : "MSX",
+      "name" : "Toshiba HX-22I",
+      "file" : "MSX - Toshiba HX-22I.zip",
+      "md5" : "d679ff175c71ed98b184c5b7a5e882ba",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Toshiba HX-51",
+      "system" : "MSX",
+      "name" : "Toshiba HX-51",
+      "file" : "MSX - Toshiba HX-51.zip",
+      "md5" : "7001f3082b7924fd13de23dbef3afdf0",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Toshiba HX-51I",
+      "system" : "MSX",
+      "name" : "Toshiba HX-51I",
+      "file" : "MSX - Toshiba HX-51I.zip",
+      "md5" : "7d93197f8fad51878cb4fcc9b380b53c",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Toshiba HX-52",
+      "system" : "MSX",
+      "name" : "Toshiba HX-52",
+      "file" : "MSX - Toshiba HX-52.zip",
+      "md5" : "d2691756cb0839846fa4f3334d640865",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Toshiba HX-52I",
+      "system" : "MSX",
+      "name" : "Toshiba HX-52I",
+      "file" : "MSX - Toshiba HX-52I.zip",
+      "md5" : "e03b0b044f976bb3329fd50ce6661f9f",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Victor HC-30",
+      "system" : "MSX",
+      "name" : "Victor HC-30",
+      "file" : "MSX - Victor HC-30.zip",
+      "md5" : "69be9c63183a2294da9cf0774ee9983c",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Victor HC-5",
+      "system" : "MSX",
+      "name" : "Victor HC-5",
+      "file" : "MSX - Victor HC-5.zip",
+      "md5" : "b899a01edde6c713f687732b8998b5f3",
+      "version" : 2
+    },
+	 {
+      "id" : "MSX - Victor HC-6",
+      "system" : "MSX",
+      "name" : "Victor HC-6",
+      "file" : "MSX - Victor HC-6.zip",
+      "md5" : "a5baf687806cffd5eb81adb168ed2609",
+      "version" : 2
+    }, 
+		{
+      "id" : "MSX - Victor HC-60",
+      "system" : "MSX",
+      "name" : "Victor HC-60",
+      "file" : "MSX - Victor HC-60.zip",
+      "md5" : "83568cfffa18bace8f27f6eee4522231",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Victor HC-7",
+      "system" : "MSX",
+      "name" : "Victor HC-7",
+      "file" : "MSX - Victor HC-7.zip",
+      "md5" : "e6ae960f7b2c5f10fa873a80449d46bf",
+      "version" : 2
+    },
+	{
+      "id" : "MSX - Yamaha CX11",
+      "system" : "MSX",
+      "name" : "Yamaha CX11",
+      "file" : "MSX - Yamaha CX11.zip",
+      "md5" : "23e07e8a07dd46f597775f71f0f7a7e6",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Yamaha CX5F-1",
+      "system" : "MSX",
+      "name" : "Yamaha CX5F-1",
+      "file" : "MSX - Yamaha CX5F-1.zip",
+      "md5" : "f84aa72577e47cb8f78ae43126efdd8e",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Yamaha CX5F-2",
+      "system" : "MSX",
+      "name" : "Yamaha CX5F-2",
+      "file" : "MSX - Yamaha CX5F-2.zip",
+      "md5" : "aab2575822a236105cb7b9e6511a8247",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Yamaha CX5M-1",
+      "system" : "MSX",
+      "name" : "Yamaha CX5M-1",
+      "file" : "MSX - Yamaha CX5M-1.zip",
+      "md5" : "aecdfe17a26ef8d6b369f0be88922a48",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Yamaha CX5M-2",
+      "system" : "MSX",
+      "name" : "Yamaha CX5M-2",
+      "file" : "MSX - Yamaha CX5M-2.zip",
+      "md5" : "bd09648361b50e2ab72bbb541f0468a8",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Yamaha CX5MII",
+      "system" : "MSX",
+      "name" : "Yamaha CX5MII",
+      "file" : "MSX - Yamaha CX5MII.zip",
+      "md5" : "f00a5d83bf9af3fdd870c47ccf174481",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Yamaha CX5MII-128",
+      "system" : "MSX",
+      "name" : "Yamaha CX5MII-128",
+      "file" : "MSX - Yamaha CX5MII-128.zip",
+      "md5" : "68efe1b33cb5286e5a451ed674670b9f",
+      "version" : 3
+    },
+	{
+      "id" : "MSX - Yamaha SX-100",
+      "system" : "MSX",
+      "name" : "Yamaha SX-100",
+      "file" : "MSX - Yamaha SX-100.zip",
+      "md5" : "879eb557446d4ea0bc0aeb2ce7f2124b",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Yamaha YIS303",
+      "system" : "MSX",
+      "name" : "Yamaha YIS303",
+      "file" : "MSX - Yamaha YIS303.zip",
+      "md5" : "1255ea4add9cb5c21a444cc5c021ece5",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Yamaha YIS503",
+      "system" : "MSX",
+      "name" : "Yamaha YIS503",
+      "file" : "MSX - Yamaha YIS503.zip",
+      "md5" : "f38a1079d80395fa6219610d42556891",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Yamaha YIS503F",
+      "system" : "MSX",
+      "name" : "Yamaha YIS503F",
+      "file" : "MSX - Yamaha YIS503F.zip",
+      "md5" : "b9bae39ca8594d26209730fe82d8fd2e",
+      "version" : 3
+    },
+	{
+      "id" : "MSX - Yamaha YIS503M",
+      "system" : "MSX",
+      "name" : "Yamaha YIS503M",
+      "file" : "MSX - Yamaha YIS503M.zip",
+      "md5" : "1e8425f57eea320c64e9c789ed094f60",
+      "version" : 3
+    },
+    {
+      "id" : "MSX - Yamaha YIS503II",
+      "system" : "MSX",
+      "name" : "Yamaha YIS503II",
+      "file" : "MSX - Yamaha YIS503II.zip",
+      "md5" : "c94f579e642a69087d7cd520e24913af",
+      "version" : 3
+    },
+	{
+      "id" : "MSX - Yamaha YIS503IIR-Student",
+      "system" : "MSX",
+      "name" : "Yamaha YIS503IIR-Student",
+      "file" : "MSX - Yamaha YIS503IIR-Student.zip",
+      "md5" : "cc48205d7d91764b7ade967abc44e617",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Yamaha YIS503IIR-Teacher",
+      "system" : "MSX",
+      "name" : "Yamaha YIS503IIR-Teacher",
+      "file" : "MSX - Yamaha YIS503IIR-Teacher.zip",
+      "md5" : "55ae0458d7fc9a29ec65e91478b98242",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Yamaha YIS503IIR Estonian-Student",
+      "system" : "MSX",
+      "name" : "Yamaha YIS503IIR Estonian-Student",
+      "file" : "MSX - Yamaha YIS503IIR Estonian-Student.zip",
+      "md5" : "38d7edb374f8c4d350117dffb8236c4b",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Yamaha YIS503IIR Estonian-Teacher",
+      "system" : "MSX",
+      "name" : "Yamaha YIS503IIR Estonian-Teacher",
+      "file" : "MSX - Yamaha YIS503IIR Estonian-Teacher.zip",
+      "md5" : "f9930d08ca4af70808650d68d5a92070",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Yamaha YIS513",
+      "system" : "MSX",
+      "name" : "Yamaha YIS513",
+      "file" : "MSX - Yamaha YIS513.zip",
+      "md5" : "c5599f2c9edc53380b110c7784211735",
+      "version" : 1
+    },
+	{
+      "id" : "MSX - Yamaha YIS603",
+      "system" : "MSX",
+      "name" : "Yamaha YIS603",
+      "file" : "MSX - Yamaha YIS603.zip",
+      "md5" : "a5f1f90facc63cf4def509be1f41d228",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Yashica YC-64",
+      "system" : "MSX",
+      "name" : "Yashica YC-64",
+      "file" : "MSX - Yashica YC-64.zip",
+      "md5" : "8f4bdeddb6f25f7c7ddaad9098371b01",
+      "version" : 2
+    },
+    {
+      "id" : "MSX - Yeno DPC-64",
+      "system" : "MSX",
+      "name" : "Yeno DPC-64",
+      "file" : "MSX - Yeno DPC-64.zip",
+      "md5" : "bad652f08c502eab3b5639ccfd755c10",
+      "version" : 1
+    },
+    {
+      "id" : "MSX - Yeno MX64",
+      "system" : "MSX",
+      "name" : "Yeno MX64",
+      "file" : "MSX - Yeno MX64.zip",
+      "md5" : "2df6a288434835250b817d91b3dfd110",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Al Alamiah AX-350II",
+      "system" : "MSX2",
+      "name" : "Al Alamiah AX-350II",
+      "file" : "MSX2 - Al Alamiah AX-350II.zip",
+      "md5" : "df2954eff67c224ee4d591395e526a97",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2 - Al Alamiah AX-350IIF",
+      "system" : "MSX2",
+      "name" : "Al Alamiah AX-350IIF",
+      "file" : "MSX2 - Al Alamiah AX-350IIF.zip",
+      "md5" : "6b9be53660ee3104dce2c7b977d6d553",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Al Alamiah AX-370",
+      "system" : "MSX2",
+      "name" : "Al Alamiah AX-370",
+      "file" : "MSX2 - Al Alamiah AX-370.zip",
+      "md5" : "c1e8a3f2e9bddaa45d1a4c2ffbd19c6d",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Arabic",
+      "system" : "MSX2",
+      "name" : "Arabic",
+      "file" : "MSX2 - Arabic.zip",
+      "md5" : "8ca921d0801ab41b67a0e11c65c57e16",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Ascii One Chip MSX",
+      "system" : "MSX2",
+      "name" : "Ascii One Chip MSX",
+      "file" : "MSX2 - Ascii One Chip MSX.zip",
+      "md5" : "51fec2bd6dc63e7d59e38ace790e1e87",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Ascii One Chip MSX East",
+      "system" : "MSX2",
+      "name" : "Ascii One Chip MSX East",
+      "file" : "MSX2 - Ascii One Chip MSX East.zip",
+      "md5" : "2e15b1370f1e0720b13f6ce984255991",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2 - Ascii One Chip MSX West",
+      "system" : "MSX2",
+      "name" : "Ascii One Chip MSX West",
+      "file" : "MSX2 - Ascii One Chip MSX West.zip",
+      "md5" : "214b41b5f7c4cefcada4f494e528b1ab",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Brazilian",
+      "system" : "MSX2",
+      "name" : "Brazilian",
+      "file" : "MSX2 - Brazilian.zip",
+      "md5" : "7f3cd4e1847fcf9f49ae6441e9de336f",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Canon V-25",
+      "system" : "MSX2",
+      "name" : "Canon V-25",
+      "file" : "MSX2 - Canon V-25.zip",
+      "md5" : "f0c437010f00586f59faa5c489543d9a",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Canon V-30F",
+      "system" : "MSX2",
+      "name" : "Canon V-30F",
+      "file" : "MSX2 - Canon V-30F.zip",
+      "md5" : "a560522ec42a14cd6a5634dca067c37c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Daewoo CPC-300",
+      "system" : "MSX2",
+      "name" : "Daewoo CPC-300",
+      "file" : "MSX2 - Daewoo CPC-300.zip",
+      "md5" : "7f90e013abf518914bdbb53724fab4de",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Daewoo CPC-300E",
+      "system" : "MSX2",
+      "name" : "Daewoo CPC-300E",
+      "file" : "MSX2 - Daewoo CPC-300E.zip",
+      "md5" : "3e000a5f4c5a8af1748cea9b5882be26",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Daewoo CPC-330K",
+      "system" : "MSX2",
+      "name" : "Daewoo CPC-330K",
+      "file" : "MSX2 - Daewoo CPC-330K.zip",
+      "md5" : "ad80cf0274c269fbbdaceedfe90bdc24",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Daewoo CPC-400",
+      "system" : "MSX2",
+      "name" : "Daewoo CPC-400",
+      "file" : "MSX2 - Daewoo CPC-400.zip",
+      "md5" : "504ec90e3f94b204ddb9d44019555430",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Daewoo CPC-400S",
+      "system" : "MSX2",
+      "name" : "Daewoo CPC-400S",
+      "file" : "MSX2 - Daewoo CPC-400S.zip",
+      "md5" : "8440f04937b6c502180239d575189de3",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Daewoo Zemmix CPC-61",
+      "system" : "MSX2",
+      "name" : "Daewoo Zemmix CPC-61",
+      "file" : "MSX2 - Daewoo Zemmix CPC-61.zip",
+      "md5" : "f18d9502e671e69696a20eb3386d102b",
+      "version" : 3
+    },
+    {
+      "id" : "MSX2 - Daewoo Zemmix CPG-120 Normal",
+      "system" : "MSX2",
+      "name" : "Daewoo Zemmix CPG-120 Normal",
+      "file" : "MSX2 - Daewoo Zemmix CPG-120 Normal.zip",
+      "md5" : "b60e72e01f0552f5d8242d1e0db0c290",
+      "version" : 3
+    },
+    {
+      "id" : "MSX2 - Daewoo Zemmix CPG-120 Turbo",
+      "system" : "MSX2",
+      "name" : "Daewoo Zemmix CPG-120 Turbo",
+      "file" : "MSX2 - Daewoo Zemmix CPG-120 Turbo.zip",
+      "md5" : "518e759eb62c271e89236a17e01bf13e",
+      "version" : 3
+    },
+    {
+      "id" : "MSX2 - Danish",
+      "system" : "MSX2",
+      "name" : "Danish",
+      "file" : "MSX2 - Danish.zip",
+      "md5" : "aece2a271d79c397dbd587fd52d5de90",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Estonian",
+      "system" : "MSX2",
+      "name" : "Estonian",
+      "file" : "MSX2 - Estonian.zip",
+      "md5" : "1a484ce9abc81df26667dd11b154b0df",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - European",
+      "system" : "MSX2",
+      "name" : "European",
+      "file" : "MSX2 - European.zip",
+      "md5" : "4b21fbd6a49f6450d60d4eaa62289b83",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Fenner FPC-900",
+      "system" : "MSX2",
+      "name" : "Fenner FPC-900",
+      "file" : "MSX2 - Fenner FPC-900.zip",
+      "md5" : "90b763962db85ae6aad708da3c800ee6",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - French",
+      "system" : "MSX2",
+      "name" : "French",
+      "file" : "MSX2 - French.zip",
+      "md5" : "9d416ea30b0d617ca652eecc85b2511e",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - German",
+      "system" : "MSX2",
+      "name" : "German",
+      "file" : "MSX2 - German.zip",
+      "md5" : "112db56c77f32fd626b078b93139f1dd",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Gradiente Expert GPC-20",
+      "system" : "MSX2",
+      "name" : "Gradiente Expert GPC-20",
+      "file" : "MSX2 - Gradiente Expert GPC-20.zip",
+      "md5" : "97324a509ad26b5e721da4da9caeaf25",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Haesung Virtual Console",
+      "system" : "MSX2",
+      "name" : "Haesung Virtual Console",
+      "file" : "MSX2 - Haesung Virtual Console.zip",
+      "md5" : "a9a76c4d274cc09bc7118ddcfea2b887",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2 - Hitachi MB-H3",
+      "system" : "MSX2",
+      "name" : "Hitachi MB-H3",
+      "file" : "MSX2 - Hitachi MB-H3.zip",
+      "md5" : "ff1df293805207b6c1fff7b065b1be74",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2 - Hitachi MB-H70",
+      "system" : "MSX2",
+      "name" : "Hitachi MB-H70",
+      "file" : "MSX2 - Hitachi MB-H70.zip",
+      "md5" : "f1a616675cf04caced2d9f98b7ceec8d",
+      "version" : 3
+    },
+    {
+      "id" : "MSX2 - Japanese",
+      "system" : "MSX2",
+      "name" : "Japanese",
+      "file" : "MSX2 - Japanese.zip",
+      "md5" : "f537374814f68700f7b1a881bdc243fb",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Kawai KMC-5000",
+      "system" : "MSX2",
+      "name" : "Kawai KMC-5000",
+      "file" : "MSX2 - Kawai KMC-5000.zip",
+      "md5" : "74f7d6e90dbe301cbe173f3ce4813de9",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Korean",
+      "system" : "MSX2",
+      "name" : "Korean",
+      "file" : "MSX2 - Korean.zip",
+      "md5" : "e9565534ea1c702c2372202466af54a3",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Laser MSX2",
+      "system" : "MSX2",
+      "name" : "Laser MSX2",
+      "file" : "MSX2 - Laser MSX2.zip",
+      "md5" : "945759cbe81a71080725b2d02f4149cd",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Mitsubishi ML-G1",
+      "system" : "MSX2",
+      "name" : "Mitsubishi ML-G1",
+      "file" : "MSX2 - Mitsubishi ML-G1.zip",
+      "md5" : "2340c4e2acc348cab26514e912cb1089",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Mitsubishi ML-G10",
+      "system" : "MSX2",
+      "name" : "Mitsubishi ML-G10",
+      "file" : "MSX2 - Mitsubishi ML-G10.zip",
+      "md5" : "0096dcce0cb78df3d964a17fbf5cecdb",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Mitsubishi ML-G3",
+      "system" : "MSX2",
+      "name" : "Mitsubishi ML-G3",
+      "file" : "MSX2 - Mitsubishi ML-G3.zip",
+      "md5" : "bf0e578f927322e26f18102df3dfc96a",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Mitsubishi ML-G30 Model 1",
+      "system" : "MSX2",
+      "name" : "Mitsubishi ML-G30 Model 1",
+      "file" : "MSX2 - Mitsubishi ML-G30 Model 1.zip",
+      "md5" : "48c96e5a57372f46501f925759b559a3",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Mitsubishi ML-G30 Model 2",
+      "system" : "MSX2",
+      "name" : "Mitsubishi ML-G30 Model 2",
+      "file" : "MSX2 - Mitsubishi ML-G30 Model 2.zip",
+      "md5" : "14d761d55b933e303a83b01b2656906c",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Mitsubishi ML-TS2",
+      "system" : "MSX2",
+      "name" : "Mitsubishi ML-TS2",
+      "file" : "MSX2 - Mitsubishi Ml-TS2.zip",
+      "md5" : "cb19bb966e1bfd6d3e3e94c34222f7a2",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - MSX-DOS2",
+      "system" : "MSX2",
+      "name" : "MSX-DOS2",
+      "file" : "MSX2 - MSX-DOS2.zip",
+      "md5" : "f8c9423e966b4bd37d43254fe6df30d9",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - National FS-4500",
+      "system" : "MSX2",
+      "name" : "National FS-4500",
+      "file" : "MSX2 - National FS-4500.zip",
+      "md5" : "0f0a6fea7751a698be8422f62f086031",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - National FS-4600",
+      "system" : "MSX2",
+      "name" : "National FS-4600",
+      "file" : "MSX2 - National FS-4600.zip",
+      "md5" : "a88ae10d9913160f417e785164b3055c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - National FS-4700",
+      "system" : "MSX2",
+      "name" : "National FS-4700",
+      "file" : "MSX2 - National FS-4700.zip",
+      "md5" : "d16d2f2f20bb98e4700123ff3061300c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - National FS-5000",
+      "system" : "MSX2",
+      "name" : "National FS-5000",
+      "file" : "MSX2 - National FS-5000.zip",
+      "md5" : "1f67cf7a88f3a2f2fb20627d5b23b9e6",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - National FS-5500F1",
+      "system" : "MSX2",
+      "name" : "National FS-5500F1",
+      "file" : "MSX2 - National FS-5500F1.zip",
+      "md5" : "3f668ef7cc8554cec52998286ffe89b1",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - National FS-5500F2",
+      "system" : "MSX2",
+      "name" : "National FS-5500F2",
+      "file" : "MSX2 - National FS-5500F2.zip",
+      "md5" : "a2efce061fbd03f0d6cf2cd864ab7df1",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Only PSG",
+      "system" : "MSX2",
+      "name" : "Only PSG",
+      "file" : "MSX2 - Only PSG.zip",
+      "md5" : "54b613fdeff4188d9f230974e049d127",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Panasonic FS-A1",
+      "system" : "MSX2",
+      "name" : "Panasonic FS-A1",
+      "file" : "MSX2 - Panasonic FS-A1.zip",
+      "md5" : "bf1920c3242bf646e796298c8fcf6165",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Panasonic FS-A1 (a)",
+      "system" : "MSX2",
+      "name" : "Panasonic FS-A1 (a)",
+      "file" : "MSX2 - Panasonic FS-A1 (a).zip",
+      "md5" : "298e62ac232cc082c3d47cca31da7436",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Panasonic FS-A1F",
+      "system" : "MSX2",
+      "name" : "Panasonic FS-A1F",
+      "file" : "MSX2 - Panasonic FS-A1F.zip",
+      "md5" : "cf66062ac4a204650d2030ee62d92806",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Panasonic FS-A1FM",
+      "system" : "MSX2",
+      "name" : "Panasonic FS-A1FM",
+      "file" : "MSX2 - Panasonic FS-A1FM.zip",
+      "md5" : "521255ece84557b44ac9f0798bd3e484",
+      "version" : 3
+    },
+    {
+      "id" : "MSX2 - Panasonic FS-A1MK2",
+      "system" : "MSX2",
+      "name" : "Panasonic FS-A1MK2",
+      "file" : "MSX2 - Panasonic FS-A1MK2.zip",
+      "md5" : "893c876b3cd64bb80ba2afcd766df6d8",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Perfect MSX-2",
+      "system" : "MSX2",
+      "name" : "Perfect MSX-2",
+      "file" : "MSX2 - Perfect MSX-2.zip",
+      "md5" : "0c8d3f4dd9f8fe1cdf9a402216b42839",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8220",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8220",
+      "file" : "MSX2 - Philips NMS-8220.zip",
+      "md5" : "00efeb992b2cbdaea922432687cec891",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8220 (a)",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8220 (a)",
+      "file" : "MSX2 - Philips NMS-8220 (a).zip",
+      "md5" : "12cc48545d7919f2bbc268f5704b1ff7",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8245",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8245",
+      "file" : "MSX2 - Philips NMS-8245.zip",
+      "md5" : "a74aaa6814823cb313c2a7b76d1deded",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8245F",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8245F",
+      "file" : "MSX2 - Philips NMS-8245F.zip",
+      "md5" : "a83adfce0c79cc8b542ed4c21f017272",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8250",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8250",
+      "file" : "MSX2 - Philips NMS-8250.zip",
+      "md5" : "8cad3005b5b7082619b01fe853fe1c8d",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8250F",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8250F",
+      "file" : "MSX2 - Philips NMS-8250F.zip",
+      "md5" : "c03d23b70e61e16bd18ff522b195a7c2",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8250J",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8250J",
+      "file" : "MSX2 - Philips NMS-8250J.zip",
+      "md5" : "e8b9c76e5a11f820c646d28f70ab3994",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8255",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8255",
+      "file" : "MSX2 - Philips NMS-8255.zip",
+      "md5" : "db5866b22ec41ce6c7e3939c3ef7ffc3",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8255F",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8255F",
+      "file" : "MSX2 - Philips NMS-8255F.zip",
+      "md5" : "768772e8a515eb9116b3a8dc9bf33229",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8260+",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8260+",
+      "file" : "MSX2 - Philips NMS-8260+.zip",
+      "md5" : "94750708152abcf54fc284650cd475d6",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8270",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8270",
+      "file" : "MSX2 - Philips NMS-8270.zip",
+      "md5" : "a1759a2de438f2dde737d5d96cf7a36e",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8280",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8280",
+      "file" : "MSX2 - Philips NMS-8280.zip",
+      "md5" : "4fb4ff590364abe7571f72c325479ebb",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8280F",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8280F",
+      "file" : "MSX2 - Philips NMS-8280F.zip",
+      "md5" : "e92ec1547cc6c6a333fb99d5fa5e2e8c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips NMS-8280G",
+      "system" : "MSX2",
+      "name" : "Philips NMS-8280G",
+      "file" : "MSX2 - Philips NMS-8280G.zip",
+      "md5" : "f1f22d7689623247bc466cb9df4779b2",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips PTC MSX PC",
+      "system" : "MSX2",
+      "name" : "Philips PTC MSX PC",
+      "file" : "MSX2 - Philips PTC MSX PC.zip",
+      "md5" : "3c5f9bac6e261788e8c53cd3c9845610",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips VG-8230",
+      "system" : "MSX2",
+      "name" : "Philips VG-8230",
+      "file" : "MSX2 - Philips VG-8230.zip",
+      "md5" : "d72e6fa7abba921e49a517ac8e4cf0a0",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips VG-8230J",
+      "system" : "MSX2",
+      "name" : "Philips VG-8230J",
+      "file" : "MSX2 - Philips VG-8230J.zip",
+      "md5" : "c8b5cb75b8c898caf0c07a5b6a0e0291",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips VG-8235-00",
+      "system" : "MSX2",
+      "name" : "Philips VG-8235-00",
+      "file" : "MSX2 - Philips VG-8235-00.zip",
+      "md5" : "ff81de2f60c677e3e60a19165a74f7d5",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Philips VG-8235-20",
+      "system" : "MSX2",
+      "name" : "Philips VG-8235-20",
+      "file" : "MSX2 - Philips VG-8235-20.zip",
+      "md5" : "e01f4df28665c48e11047055ed7ab79f",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips VG-8235F",
+      "system" : "MSX2",
+      "name" : "Philips VG-8235F",
+      "file" : "MSX2 - Philips VG-8235F.zip",
+      "md5" : "a85ae779ba02e305c558bf3b8af2f645",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Philips VG-8235G",
+      "system" : "MSX2",
+      "name" : "Philips VG-8235G",
+      "file" : "MSX2 - Philips VG-8235G.zip",
+      "md5" : "9c96c8078236a23e15a0ba3ffd536cc1",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Philips VG-8240",
+      "system" : "MSX2",
+      "name" : "Philips VG-8240",
+      "file" : "MSX2 - Philips VG-8240.zip",
+      "md5" : "4376c658f71982e015798b9a70a442a5",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Polish",
+      "system" : "MSX2",
+      "name" : "Polish",
+      "file" : "MSX2 - Polish.zip",
+      "md5" : "e81312ca18fbba228de76f9114d32dbb",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Russian",
+      "system" : "MSX2",
+      "name" : "Russian",
+      "file" : "MSX2 - Russian.zip",
+      "md5" : "f32a09f7b634b9bff0502e9d3dd13a08",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sanyo MPC-2300",
+      "system" : "MSX2",
+      "name" : "Sanyo MPC-2300",
+      "file" : "MSX2 - Sanyo MPC-2300.zip",
+      "md5" : "3c5ee5b2f54456fdd05dbfeb8ca968c8",
+      "version" : 3
+    },
+	{
+      "id" : "MSX2 - Sanyo MPC-2500FD",
+      "system" : "MSX2",
+      "name" : "Sanyo MPC-2500FD",
+      "file" : "MSX2 - Sanyo MPC-2500FD.zip",
+      "md5" : "470d348f7d995b2cffd269effc9f5882",
+      "version" : 3
+    },
+    {
+      "id" : "MSX2 - Sanyo Wavy MPC-25FD",
+      "system" : "MSX2",
+      "name" : "Sanyo Wavy MPC-25FD",
+      "file" : "MSX2 - Sanyo Wavy MPC-25FD.zip",
+      "md5" : "6669a7e3f03f2aca6c0abe5f2171f4f3",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Sanyo Wavy MPC-27",
+      "system" : "MSX2",
+      "name" : "Sanyo Wavy MPC-27",
+      "file" : "MSX2 - Sanyo Wavy MPC-27.zip",
+      "md5" : "3a518d82e80c2425d235c1b3b67f0bf0",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sanyo Wavy PHC-23",
+      "system" : "MSX2",
+      "name" : "Sanyo Wavy PHC-23",
+      "file" : "MSX2 - Sanyo Wavy PHC-23.zip",
+      "md5" : "3a89abd44bf16a86588f1e413d79c59c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sanyo Wavy PHC-55FD2",
+      "system" : "MSX2",
+      "name" : "Sanyo Wavy PHC-55FD2",
+      "file" : "MSX2 - Sanyo Wavy PHC-55FD2.zip",
+      "md5" : "6176542f30e3f29ddec72fc3946f0d59",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sanyo Wavy PHC-77",
+      "system" : "MSX2",
+      "name" : "Sanyo Wavy PHC-77",
+      "file" : "MSX2 - Sanyo Wavy PHC-77.zip",
+      "md5" : "c3871eee8ba47d286d59fef375846cd1",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sharp HB-8000-2",
+      "system" : "MSX2",
+      "name" : "Sharp HB-8000-2",
+      "file" : "MSX2 - Sharp HB-8000-2.zip",
+      "md5" : "1bfa53577549b80f402ae9994cc1916b",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Sony HB-F1",
+      "system" : "MSX2",
+      "name" : "Sony HB-F1",
+      "file" : "MSX2 - Sony HB-F1.zip",
+      "md5" : "13f8a1feb8229d29edd01f41d4f10810",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F1II",
+      "system" : "MSX2",
+      "name" : "Sony HB-F1II",
+      "file" : "MSX2 - Sony HB-F1II.zip",
+      "md5" : "f836b11feb484f9e74b75e4c5fd40440",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F1XD",
+      "system" : "MSX2",
+      "name" : "Sony HB-F1XD",
+      "file" : "MSX2 - Sony HB-F1XD.zip",
+      "md5" : "0bee6bb4391fbfdf928dd9216acc7b34",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F1XDMK2",
+      "system" : "MSX2",
+      "name" : "Sony HB-F1XDMK2",
+      "file" : "MSX2 - Sony HB-F1XDMK2.zip",
+      "md5" : "ebe8bc90dada4fd6513fdd3a6925733f",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F5",
+      "system" : "MSX2",
+      "name" : "Sony HB-F5",
+      "file" : "MSX2 - Sony HB-F5.zip",
+      "md5" : "a02ef17e132551fcf16011fdbdf7718a",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F500-1",
+      "system" : "MSX2",
+      "name" : "Sony HB-F500-1",
+      "file" : "MSX2 - Sony HB-F500-1.zip",
+      "md5" : "86502c48f7345cd74c0456a9fccafc20",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Sony HB-F500-2",
+      "system" : "MSX2",
+      "name" : "Sony HB-F500-2",
+      "file" : "MSX2 - Sony HB-F500-2.zip",
+      "md5" : "b5a82b874fbe6ab6a3405743d4e68ca3",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F500F",
+      "system" : "MSX2",
+      "name" : "Sony HB-F500F",
+      "file" : "MSX2 - Sony HB-F500F.zip",
+      "md5" : "4e99f58fa9070c1690c578fda15595d3",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F500P",
+      "system" : "MSX2",
+      "name" : "Sony HB-F500P",
+      "file" : "MSX2 - Sony HB-F500P.zip",
+      "md5" : "1fd85849427dab10b2a7471a9226ad69",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F700D",
+      "system" : "MSX2",
+      "name" : "Sony HB-F700D",
+      "file" : "MSX2 - Sony HB-F700D.zip",
+      "md5" : "1ff20c46526e6aa004d8e19fdd349e8f",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F700F",
+      "system" : "MSX2",
+      "name" : "Sony HB-F700F",
+      "file" : "MSX2 - Sony HB-F700F.zip",
+      "md5" : "c706bcfa3e4d5351cf2a544f0f468652",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F700P",
+      "system" : "MSX2",
+      "name" : "Sony HB-F700P",
+      "file" : "MSX2 - Sony HB-F700P.zip",
+      "md5" : "50cb931b017c3e0fe422e873e7d12a14",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F700S",
+      "system" : "MSX2",
+      "name" : "Sony HB-F700S",
+      "file" : "MSX2 - Sony HB-F700S.zip",
+      "md5" : "3fe5b270de88b26fc5a8db317c87b729",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F750+",
+      "system" : "MSX2",
+      "name" : "Sony HB-F750+",
+      "file" : "MSX2 - Sony HB-F750+.zip",
+      "md5" : "466eceb1b303a3516340ad7a0727c919",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Sony HB-F900",
+      "system" : "MSX2",
+      "name" : "Sony HB-F900",
+      "file" : "MSX2 - Sony HB-F900.zip",
+      "md5" : "61a802d24cd12e971c1f6ae8a8fb64f0",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Sony HB-F900 (a)",
+      "system" : "MSX2",
+      "name" : "Sony HB-F900 (a)",
+      "file" : "MSX2 - Sony HB-F900 (a).zip",
+      "md5" : "fcfcfe0ac6e930a8fa27ee7397d3e01e",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Sony HB-F9P",
+      "system" : "MSX2",
+      "name" : "Sony HB-F9P",
+      "file" : "MSX2 - Sony HB-F9P.zip",
+      "md5" : "b4c8e2bb1ea32913f1815c7258f69ac0",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-F9P Russian",
+      "system" : "MSX2",
+      "name" : "Sony HB-F9P Russian",
+      "file" : "MSX2 - Sony HB-F9P Russian.zip",
+      "md5" : "98d4c391b052989250da2e1e5d36a332",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Sony HB-F9S",
+      "system" : "MSX2",
+      "name" : "Sony HB-F9S",
+      "file" : "MSX2 - Sony HB-F9S.zip",
+      "md5" : "1df92795ddfc009cfff3dc3780bb27d8",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-G900AP",
+      "system" : "MSX2",
+      "name" : "Sony HB-G900AP",
+      "file" : "MSX2 - Sony HB-G900AP.zip",
+      "md5" : "3e9a5c87a4b184b62c39f036b2c94885",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2 - Sony HB-G900D",
+      "system" : "MSX2",
+      "name" : "Sony HB-G900D",
+      "file" : "MSX2 - Sony HB-G900D.zip",
+      "md5" : "e347a3f4ee88e073f541e9354e5c78d5",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Sony HB-G900F",
+      "system" : "MSX2",
+      "name" : "Sony HB-G900F",
+      "file" : "MSX2 - Sony HB-G900F.zip",
+      "md5" : "4281b006bae11b81f32a2f0849726a93",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Sony HB-G900P",
+      "system" : "MSX2",
+      "name" : "Sony HB-G900P",
+      "file" : "MSX2 - Sony HB-G900P.zip",
+      "md5" : "5c6cf9882ad9dcfc80c2d2f5c6736723",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2 - Sony HB-T600",
+      "system" : "MSX2",
+      "name" : "Sony HB-T600",
+      "file" : "MSX2 - Sony HB-T600.zip",
+      "md5" : "0d3f18fe7c8ed95fb54b15c1867817bd",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2 - Sony HB-T7",
+      "system" : "MSX2",
+      "name" : "Sony HB-T7",
+      "file" : "MSX2 - Sony HB-T7.zip",
+      "md5" : "77099c5a41df6347aefc94ab3ba25a3c",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Spanish",
+      "system" : "MSX2",
+      "name" : "Spanish",
+      "file" : "MSX2 - Spanish.zip",
+      "md5" : "ac24eb87da2d9b539affab35c365bcc5",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Spectravideo SVI-738-2 CUC",
+      "system" : "MSX2",
+      "name" : "Spectravideo SVI-738-2 CUC",
+      "file" : "MSX2 - Spectravideo SVI-738-2 CUC.zip",
+      "md5" : "34111c56170d21912c50a77062d7c885",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Spectravideo SVI-738-2 JP Grobler",
+      "system" : "MSX2",
+      "name" : "Spectravideo SVI-738-2 JP Grobler",
+      "file" : "MSX2 - Spectravideo SVI-738-2 JP Grobler.zip",
+      "md5" : "31da31a8c77a1b95d5ee67ae071fa2a3",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Spectravideo SVI-738-2 LC Grosso",
+      "system" : "MSX2",
+      "name" : "Spectravideo SVI-738-2 LC Grosso",
+      "file" : "MSX2 - Spectravideo SVI-738-2 LC Grosso.zip",
+      "md5" : "38c1b3237dd1787ac6f1c09a668c3e3c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Spectravideo SVI-838-2",
+      "system" : "MSX2",
+      "name" : "Spectravideo SVI-838-2",
+      "file" : "MSX2 - Spectravideo SVI-838-2.zip",
+      "md5" : "7dea876deb55147e03412135d20b7f5d",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Swedish",
+      "system" : "MSX2",
+      "name" : "Swedish",
+      "file" : "MSX2 - Swedish.zip",
+      "md5" : "f0e5640e1031547cc1851357c84986ed",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Talent TPC-310",
+      "system" : "MSX2",
+      "name" : "Talent TPC-310",
+      "file" : "MSX2 - Talent TPC-310.zip",
+      "md5" : "78f7b4145b9e2d7340a6737fedecde53",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Talent TPP-311",
+      "system" : "MSX2",
+      "name" : "Talent TPP-311",
+      "file" : "MSX2 - Talent TPP-311.zip",
+      "md5" : "0677555fb8e4a336523d91fe64ec4af9",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Talent TPS-312",
+      "system" : "MSX2",
+      "name" : "Talent TPS-312",
+      "file" : "MSX2 - Talent TPS-312.zip",
+      "md5" : "98e96d5017978e55d39fb7d84576150e",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Toshiba FS-TM1",
+      "system" : "MSX2",
+      "name" : "Toshiba FS-TM1",
+      "file" : "MSX2 - Toshiba FS-TM1.zip",
+      "md5" : "83c3ffccd652ddf90f0d11b154976e37",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Toshiba HX-23",
+      "system" : "MSX2",
+      "name" : "Toshiba HX-23",
+      "file" : "MSX2 - Toshiba HX-23.zip",
+      "md5" : "fe2b3c4c10bd78c0e3728a4073d56218",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Toshiba HX-23F",
+      "system" : "MSX2",
+      "name" : "Toshiba HX-23F",
+      "file" : "MSX2 - Toshiba HX-23F.zip",
+      "md5" : "2ecd83e0ac46871eb3627df26a99d84d",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Toshiba HX-33",
+      "system" : "MSX2",
+      "name" : "Toshiba HX-33",
+      "file" : "MSX2 - Toshiba HX-33.zip",
+      "md5" : "e5a2f927b70c0f844c5f9dea6c337eed",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Toshiba HX-34",
+      "system" : "MSX2",
+      "name" : "Toshiba HX-34",
+      "file" : "MSX2 - Toshiba HX-34.zip",
+      "md5" : "3835913e1ff39863a4fea3c32e34c786",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Victor HC-90",
+      "system" : "MSX2",
+      "name" : "Victor HC-90",
+      "file" : "MSX2 - Victor HC-90.zip",
+      "md5" : "7b9da33a3b864b329f98ccfc72def930",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Victor HC-95",
+      "system" : "MSX2",
+      "name" : "Victor HC-95",
+      "file" : "MSX2 - Victor HC-95.zip",
+      "md5" : "56b47106a5547896bdeeb720ea142692",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Victor HC-95A",
+      "system" : "MSX2",
+      "name" : "Victor HC-95A",
+      "file" : "MSX2 - Victor HC-95A.zip",
+      "md5" : "702151f419280fa17ccee974b30d99dc",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Yamaha CX5MII-2 Uwe Neisius",
+      "system" : "MSX2",
+      "name" : "Yamaha CX5MII-2 Uwe Neisius",
+      "file" : "MSX2 - Yamaha CX5MII-2 Uwe Neisius.zip",
+      "md5" : "531fd8846fc5b52a15655a74b11ec70b",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Yamaha CX7M-128",
+      "system" : "MSX2",
+      "name" : "Yamaha CX7M-128",
+      "file" : "MSX2 - Yamaha CX7M-128.zip",
+      "md5" : "cf03535d90c8eb5d5ff5f25aeea52a4b",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Yamaha CX7-128",
+      "system" : "MSX2",
+      "name" : "Yamaha CX7-128",
+      "file" : "MSX2 - Yamaha CX7-128.zip",
+      "md5" : "baf27a15b4dc3d5d228141a104750a1a",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Yamaha YIS503IIIR",
+      "system" : "MSX2",
+      "name" : "Yamaha YIS503IIIR",
+      "file" : "MSX2 - Yamaha YIS503IIIR.zip",
+      "md5" : "bb307e55da4b27c3ffbc21d209fc3d09",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Yamaha YIS503IIIR Estonian",
+      "system" : "MSX2",
+      "name" : "Yamaha YIS503IIIR Estonian",
+      "file" : "MSX2 - Yamaha YIS503IIIR Estonian.zip",
+      "md5" : "379bd9a6dbf0d63ebaa86159fddc0003",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Yamaha YIS604",
+      "system" : "MSX2",
+      "name" : "Yamaha YIS604",
+      "file" : "MSX2 - Yamaha YIS604.zip",
+      "md5" : "60de1a272efeab8631c49e9468c23425",
+      "version" : 2
+    },	
+    {
+      "id" : "MSX2 - Yamaha YIS604-128",
+      "system" : "MSX2",
+      "name" : "Yamaha YIS604-128",
+      "file" : "MSX2 - Yamaha YIS604-128.zip",
+      "md5" : "5d2c65c3f10d228ce94cf6de74fdb3b8",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2 - Yamaha YIS805-128",
+      "system" : "MSX2",
+      "name" : "Yamaha YIS805-128",
+      "file" : "MSX2 - Yamaha YIS805-128.zip",
+      "md5" : "87288efa5b8f9ba57e86f02ea1aea2d7",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2 - Yamaha YIS805-128R2",
+      "system" : "MSX2",
+      "name" : "Yamaha YIS805-128R2",
+      "file" : "MSX2 - Yamaha YIS805-128R2.zip",
+      "md5" : "22ca2ea42203dfd3fd8af185bf24f93c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2 - Yamaha YIS805-128R2 Estonian",
+      "system" : "MSX2",
+      "name" : "Yamaha YIS805-128R2 Estonian",
+      "file" : "MSX2 - Yamaha YIS805-128R2 Estonian.zip",
+      "md5" : "8651021525c3a8968b7c7e7dda3e979f",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2 - Yamaha YIS805-256",
+      "system" : "MSX2",
+      "name" : "Yamaha YIS805-256",
+      "file" : "MSX2 - Yamaha YIS805-256.zip",
+      "md5" : "89107f72ed771467b95efca7f41e0c50",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2+ - Arabic",
+      "system" : "MSX2+",
+      "name" : "Arabic",
+      "file" : "MSX2+ - Arabic.zip",
+      "md5" : "2c959e62a23026428d5f56c104d1543c",
+      "version" : 3
+    },
+    {
+      "id" : "MSX2+ - Ascii MSXPLAYer 2003",
+      "system" : "MSX2+",
+      "name" : "Ascii MSXPLAYer 2003",
+      "file" : "MSX2+ - Ascii MSXPLAYer 2003.zip",
+      "md5" : "7661c0c4fe2d3062233153ba1720bf20",
+      "version" : 2
+    },
+		{
+      "id" : "MSX2+ - Ascii One Chip MSX+ East",
+      "system" : "MSX2+",
+      "name" : "Ascii One Chip MSX+ East",
+      "file" : "MSX2+ - Ascii One Chip MSX East+.zip",
+      "md5" : "a8f452b655b9cdc9852fecbfafe42e6e",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Ascii One Chip MSX+ West",
+      "system" : "MSX2+",
+      "name" : "Ascii One Chip MSX+ West",
+      "file" : "MSX2+ - Ascii One Chip MSX+ West.zip",
+      "md5" : "ec6cea59c4157a178151991de0300991",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Brazilian",
+      "system" : "MSX2+",
+      "name" : "Brazilian",
+      "file" : "MSX2+ - Brazilian.zip",
+      "md5" : "782f6e3f1f5cfb95350e3a78ab6585bd",
+      "version" : 4
+    },
+	{
+      "id" : "MSX2+ - Ciel Expert AC88+",
+      "system" : "MSX2+",
+      "name" : "Ciel Expert AC88+",
+      "file" : "MSX2+ - Ciel Expert AC88+.zip",
+      "md5" : "5354eb4094587bcd4a51f2ed20e50b5f",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Ciel Expert 3 IDE Normal",
+      "system" : "MSX2+",
+      "name" : "Ciel Expert 3 IDE Normal",
+      "file" : "MSX2+ - Ciel Expert 3 IDE Normal.zip",
+      "md5" : "6b3e215a4164ace9eecef578221b9bfa",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Ciel Expert 3 IDE Turbo",
+      "system" : "MSX2+",
+      "name" : "Ciel Expert 3 IDE Turbo",
+      "file" : "MSX2+ - Ciel Expert 3 IDE Turbo.zip",
+      "md5" : "133752d8feced6dfac9ae8fcdf96d9b7",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Ciel Expert 3 Normal",
+      "system" : "MSX2+",
+      "name" : "Ciel Expert 3 Normal",
+      "file" : "MSX2+ - Ciel Expert 3 Normal.zip",
+      "md5" : "b2c0d1ec2ee8e8158799dd700334e280",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Ciel Expert 3 Turbo",
+      "system" : "MSX2+",
+      "name" : "Ciel Expert 3 Turbo",
+      "file" : "MSX2+ - Ciel Expert 3 Turbo.zip",
+      "md5" : "19a632942c2e223e976493cdd12e2130",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2+ - Daewoo Zemmix Neo",
+      "system" : "MSX2+",
+      "name" : "Daewoo Zemmix Neo",
+      "file" : "MSX2+ - Daewoo Zemmix Neo.zip",
+      "md5" : "5bce2dba5aab2734c7deee7435ad9cca",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Estonian",
+      "system" : "MSX2+",
+      "name" : "Estonian",
+      "file" : "MSX2+ - Estonian.zip",
+      "md5" : "33c036329f87aaa7e94fa7c5c56628fb",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - European",
+      "system" : "MSX2+",
+      "name" : "European",
+      "file" : "MSX2+ - European.zip",
+      "md5" : "d5c27a2a808253cd78676fb00fde53b3",
+      "version" : 3
+    },
+    {
+      "id" : "MSX2+ - French",
+      "system" : "MSX2+",
+      "name" : "French",
+      "file" : "MSX2+ - French.zip",
+      "md5" : "3a10e29c953bcad87f37c633c82c1f61",
+      "version" : 3
+    },
+	{
+      "id" : "MSX2+ - German",
+      "system" : "MSX2+",
+      "name" : "German",
+      "file" : "MSX2+ - German.zip",
+      "md5" : "3da6e8bc10fbe3c29dda634fa2a8203a",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - GR8BIT",
+      "system" : "MSX2+",
+      "name" : "GR8BIT",
+      "file" : "MSX2+ - GR8BIT.zip",
+      "md5" : "14104603a59a3ee9e8c7ee7f669d8b4f",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2+ - Gradiente Expert DDX+",
+      "system" : "MSX2+",
+      "name" : "Gradiente Expert DDX+",
+      "file" : "MSX2+ - Gradiente Expert DDX+.zip",
+      "md5" : "9c1140eebb60ac3aca42e7c5c33de83f",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2+ - Gradiente Expert GPC-30",
+      "system" : "MSX2+",
+      "name" : "Gradiente Expert GPC-30",
+      "file" : "MSX2+ - Gradiente Expert GPC-30.zip",
+      "md5" : "cb97db66ccef438494c28d3a024eccbc",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Japanese",
+      "system" : "MSX2+",
+      "name" : "Japanese",
+      "file" : "MSX2+ - Japanese.zip",
+      "md5" : "cfe4f852a422518910fd86d910401aec",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Korean",
+      "system" : "MSX2+",
+      "name" : "Korean",
+      "file" : "MSX2+ - Korean.zip",
+      "md5" : "38eb0e60475f8400360f3ba99c41d073",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - MSX-DOS2",
+      "system" : "MSX2+",
+      "name" : "MSX-DOS2",
+      "file" : "MSX2+ - MSX-DOS2.zip",
+      "md5" : "709f8d6b61401fcbedfd1388c95e3949",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Panasonic FS-A1FX",
+      "system" : "MSX2+",
+      "name" : "Panasonic FS-A1FX",
+      "file" : "MSX2+ - Panasonic FS-A1FX.zip",
+      "md5" : "b7344e7e31d08561e4fda9faa824e857",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Panasonic FS-A1FX Luppie",
+      "system" : "MSX2+",
+      "name" : "Panasonic FS-A1FX Luppie",
+      "file" : "MSX2+ - Panasonic FS-A1FX Luppie.zip",
+      "md5" : "66cf268be47e065c79b6fce71e25ce8b",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Panasonic FS-A1WSX",
+      "system" : "MSX2+",
+      "name" : "Panasonic FS-A1WSX",
+      "file" : "MSX2+ - Panasonic FS-A1WSX.zip",
+      "md5" : "e64411bc281d438af3143b026823676f",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Panasonic FS-A1WX",
+      "system" : "MSX2+",
+      "name" : "Panasonic FS-A1WX",
+      "file" : "MSX2+ - Panasonic FS-A1WX.zip",
+      "md5" : "21bff9d07df242823b7943dc5a9d5b71",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Panasonic FS-A1WX (a)",
+      "system" : "MSX2+",
+      "name" : "Panasonic FS-A1WX (a)",
+      "file" : "MSX2+ - Panasonic FS-A1WX (a).zip",
+      "md5" : "ed62dab03340b9c0de5ea396f20b3cd4",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Philips NMS-8280+",
+      "system" : "MSX2+",
+      "name" : "Philips NMS-8280+",
+      "file" : "MSX2+ - Philips NMS-8280+.zip",
+      "md5" : "eeb82abe59bc89b17cfa069c00574105",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2+ - Philips NMS-8280F+",
+      "system" : "MSX2+",
+      "name" : "Philips NMS-8280F+",
+      "file" : "MSX2+ - Philips NMS-8280F+.zip",
+      "md5" : "6a41765bf39bd364eb33d19cb9570177",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2+ - Philips NMS-8280G+",
+      "system" : "MSX2+",
+      "name" : "Philips NMS-8280G+",
+      "file" : "MSX2+ - Philips NMS-8280G+.zip",
+      "md5" : "5e0827c872e46db454a18e7d0724f716",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2+ - Russian",
+      "system" : "MSX2+",
+      "name" : "Russian",
+      "file" : "MSX2+ - Russian.zip",
+      "md5" : "cc332682b0970362f1548c66e7d9d4df",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Sanyo Wavy PHC-35J",
+      "system" : "MSX2+",
+      "name" : "Sanyo Wavy PHC-35J",
+      "file" : "MSX2+ - Sanyo Wavy PHC-35J.zip",
+      "md5" : "fff2e2ef9aa7d52ded7e0b53d7ba3a2c",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Sanyo Wavy PHC-70FD1",
+      "system" : "MSX2+",
+      "name" : "Sanyo Wavy PHC-70FD1",
+      "file" : "MSX2+ - Sanyo Wavy PHC-70FD1.zip",
+      "md5" : "02ce4b35022a6731a1361435d768339d",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Sanyo Wavy PHC-70FD2",
+      "system" : "MSX2+",
+      "name" : "Sanyo Wavy PHC-70FD2",
+      "file" : "MSX2+ - Sanyo Wavy PHC-70FD2.zip",
+      "md5" : "60a3a4f71e2d5f12e3436ee4a0954349",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Sharp HB-8000-2+",
+      "system" : "MSX2+",
+      "name" : "Sharp HB-8000-2+",
+      "file" : "MSX2+ - Sharp HB-8000-2+.zip",
+      "md5" : "236e67663dd06f581464963efbf98667",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2+ - Sony HB-F1XDJ",
+      "system" : "MSX2+",
+      "name" : "Sony HB-F1XDJ",
+      "file" : "MSX2+ - Sony HB-F1XDJ.zip",
+      "md5" : "938cd3e869cb8e7bfb340eb9f615cd21",
+      "version" : 1
+    },
+    {
+      "id" : "MSX2+ - Sony HB-F1XV",
+      "system" : "MSX2+",
+      "name" : "Sony HB-F1XV",
+      "file" : "MSX2+ - Sony HB-F1XV.zip",
+      "md5" : "6f0688352338049566feba919c93c507",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Sony HB-F700D+",
+      "system" : "MSX2+",
+      "name" : "Sony HB-F700D+",
+      "file" : "MSX2+ - Sony HB-F700D+.zip",
+      "md5" : "fbb1a76f34ed41012b51e25759fb3823",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Sony HB-F700F+",
+      "system" : "MSX2+",
+      "name" : "Sony HB-F700F+",
+      "file" : "MSX2+ - Sony HB-F700F+.zip",
+      "md5" : "98c47e11615eccb87cf583f54ecf65af",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2+ - Sony HB-F700P+",
+      "system" : "MSX2+",
+      "name" : "Sony HB-F700P+",
+      "file" : "MSX2+ - Sony HB-F700P+.zip",
+      "md5" : "a7a1a8419c1d495b8eb0af9c9949d274",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2+ - Sony HB-F700S+",
+      "system" : "MSX2+",
+      "name" : "Sony HB-F700S+",
+      "file" : "MSX2+ - Sony HB-F700S+.zip",
+      "md5" : "96fa68a88fd6b2d09302d8fc5f2ead90",
+      "version" : 2
+    },
+	{
+      "id" : "MSX2+ - Sony HB-F9P+",
+      "system" : "MSX2+",
+      "name" : "Sony HB-F9P+",
+      "file" : "MSX2+ - Sony HB-F9P+.zip",
+      "md5" : "a8460c4e1e443a4fd82f0274dab12295",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2+ - Sony HB-F9S+",
+      "system" : "MSX2+",
+      "name" : "Sony HB-F9S+",
+      "file" : "MSX2+ - Sony HB-F9S+.zip",
+      "md5" : "649c80b001766fa053596480e918b123",
+      "version" : 3
+    },
+	{
+      "id" : "MSX2+ - Spanish",
+      "system" : "MSX2+",
+      "name" : "Spanish",
+      "file" : "MSX2+ - Spanish.zip",
+      "md5" : "264bdf7fbde06db70d2bd19657656045",
+      "version" : 2
+    },
+    {
+      "id" : "MSX2+ - Spectravideo SVI-738-2+",
+      "system" : "MSX2+",
+      "name" : "Spectravideo SVI-738-2+",
+      "file" : "MSX2+ - Spectravideo SVI-738-2+.zip",
+      "md5" : "01dec4441de98a9b285292eeb4448d6e",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Talent TPC-310+",
+      "system" : "MSX2+",
+      "name" : "Talent TPC-310+",
+      "file" : "MSX2+ - Talent TPC-310+.zip",
+      "md5" : "e86fd588bdfaa213cd399e3412621fc9",
+      "version" : 1
+    },
+	{
+      "id" : "MSX2+ - Toshiba FS-TM1+",
+      "system" : "MSX2+",
+      "name" : "Toshiba FS-TM1+",
+      "file" : "MSX2+ - Toshiba FS-TM1+.zip",
+      "md5" : "f06797ae9c5813ba83a690db78a608d4",
+      "version" : 1
+    },
+	{ 
+      "id" : "MSX2+ - Yamaha YIS805-256-2+",
+      "system" : "MSX2+",
+      "name" : "Yamaha YIS805-256-2+",
+      "file" : "MSX2+ - Yamaha YIS805-256-2+.zip",
+      "md5" : "538fd5ca52bc58281716137af9f8b01c",
+      "version" : 2
+    },
+	{
+      "id" : "MSXturboR - Arabic",
+      "system" : "MSXturboR",
+      "name" : "Arabic",
+      "file" : "MSXturboR - Arabic.zip",
+      "md5" : "e1667ca79197901e60d18aa97571c53b",
+      "version" : 2
+    },
+	{
+      "id" : "MSXturboR - Brazilian",
+      "system" : "MSXturboR",
+      "name" : "Brazilian",
+      "file" : "MSXturboR - Brazilian.zip",
+      "md5" : "f8ab5dbd770ddbdc52905916e5b30f16",
+      "version" : 1
+    },
+	{
+      "id" : "MSXturboR - Estonian",
+      "system" : "MSXturboR",
+      "name" : "Estonian",
+      "file" : "MSXturboR - Estonian.zip",
+      "md5" : "8a6eca71a5bfac9107a045c1452556dd",
+      "version" : 2
+    },
+    {
+      "id" : "MSXturboR - European",
+      "system" : "MSXturboR",
+      "name" : "European",
+      "file" : "MSXturboR - European.zip",
+      "md5" : "968f0d89414561151795d74c393e60e6",
+      "version" : 4
+    },
+	{
+      "id" : "MSXturboR - French",
+      "system" : "MSXturboR",
+      "name" : "French",
+      "file" : "MSXturboR - French.zip",
+      "md5" : "3857393e6002a00db2beff750f2cbac8",
+      "version" : 3
+    },
+	{
+      "id" : "MSXturboR - German",
+      "system" : "MSXturboR",
+      "name" : "German",
+      "file" : "MSXturboR - German.zip",
+      "md5" : "7022afedc1a866fbcdb12474400f79ad",
+      "version" : 2
+    },
+    {
+      "id" : "MSXturboR - Japanese",
+      "system" : "MSXturboR",
+      "name" : "Japanese",
+      "file" : "MSXturboR - Japanese.zip",
+      "md5" : "b0bef7d6826449d2cf16b5f8fd8fce9c",
+      "version" : 2
+    },
+	{
+      "id" : "MSXturboR - Korean",
+      "system" : "MSXturboR",
+      "name" : "Korean",
+      "file" : "MSXturboR - Korean.zip",
+      "md5" : "5be107fbc52430c87196c41cd4776929",
+      "version" : 2
+    },
+    {
+      "id" : "MSXturboR - Panasonic FS-A1GT",
+      "system" : "MSXturboR",
+      "name" : "Panasonic FS-A1GT",
+      "file" : "MSXturboR - Panasonic FS-A1GT.zip",
+      "md5" : "eb0fe0305971188e14e794c7a4e65ccf",
+      "version" : 1
+    },
+    {
+      "id" : "MSXturboR - Panasonic FS-A1ST",
+      "system" : "MSXturboR",
+      "name" : "Panasonic FS-A1ST",
+      "file" : "MSXturboR - Panasonic FS-A1ST.zip",
+      "md5" : "9bd20b10d4b0951b5bb1165449e13b47",
+      "version" : 1
+    },
+    {
+      "id" : "MSXturboR - Panasonic FS-A1ST (a)",
+      "system" : "MSXturboR",
+      "name" : "Panasonic FS-A1ST (a)",
+      "file" : "MSXturboR - Panasonic FS-A1ST (a).zip",
+      "md5" : "402b2110271ac027b585f7d57f29ed5a",
+      "version" : 1
+    },
+    {
+      "id" : "MSXturboR - Panasonic FS-A1ST (b)",
+      "system" : "MSXturboR",
+      "name" : "Panasonic FS-A1ST (b)",
+      "file" : "MSXturboR - Panasonic FS-A1ST (b).zip",
+      "md5" : "606189502cd999cfcde5e0074dcd5d12",
+      "version" : 1
+    },
+	{
+      "id" : "MSXturboR - Russian",
+      "system" : "MSXturboR",
+      "name" : "Russian",
+      "file" : "MSXturboR - Russian.zip",
+      "md5" : "9e1e6b74a829efff98e299836ec8af89",
+      "version" : 2
+    },
+	{
+      "id" : "MSXturboR - Spanish",
+      "system" : "MSXturboR",
+      "name" : "Spanish",
+      "file" : "MSXturboR - Spanish.zip",
+      "md5" : "cca7e994eafd773311a0ea9e4ce07725",
+      "version" : 2
+    },
+	{ 
+      "id" : "MSXturboR - Yamaha YIS805-512-TR",
+      "system" : "MSXturboR",
+      "name" : "Yamaha YIS805-512-TR",
+      "file" : "MSXturboR - Yamaha YIS805-512-TR.zip",
+      "md5" : "7b5693cfe15a2337253deadaba587acb",
+      "version" : 1
+    }
+  ]
+}
