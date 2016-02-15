@@ -11,7 +11,7 @@
       "md5" : "0311b08f68feb60bda401b77637ce0f9",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX - Al Alamiah AX-150",
       "system" : "MSX",
       "name" : "Al Alamiah AX-150",
@@ -27,7 +27,7 @@
       "md5" : "bd7c0383e01229c9a462146772a3e4c8",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX - Al Alamiah AX-200",
       "system" : "MSX",
       "name" : "Al Alamiah AX-200",
@@ -147,7 +147,7 @@
       "md5" : "07cacefbea132c6dae80503541c4201e",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Casio PV-7 + KB-7",
       "system" : "MSX",
       "name" : "Casio PV-7 + KB-7",
@@ -227,7 +227,7 @@
       "md5" : "0356ad6ddd0f8028677ace95e4ede652",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Dragon MSX-64",
       "system" : "MSX",
       "name" : "Dragon MSX-64",
@@ -283,7 +283,7 @@
       "md5" : "8321974fb9b1fa5c117bbeffc454c4a7",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX - Frael Bruc 100-2",
       "system" : "MSX",
       "name" : "Frael Bruc 100-2",
@@ -338,7 +338,8 @@
       "file" : "MSX - Goldstar GFC-1080.zip",
       "md5" : "b78eac4cbe20578aa126596fe7034939",
       "version" : 1
-    },    {
+    },   
+    {
       "id" : "MSX - Goldstar GFC-1080A",
       "system" : "MSX",
       "name" : "Goldstar GFC-1080A",
@@ -354,7 +355,7 @@
       "md5" : "72ac3c98644e3db0c1bf2a4fefee9347",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Gradiente Expert GPC-11",
       "system" : "MSX",
       "name" : "Gradiente Expert GPC-11",
@@ -362,7 +363,7 @@
       "md5" : "b0dae8387742cdc4c081705c9ab77939",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Gradiente Expert GPC-13",
       "system" : "MSX",
       "name" : "Gradiente Expert GPC-13",
@@ -378,7 +379,7 @@
       "md5" : "d1bcef3b89fba46d4259f207a962cf46",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Gradiente Expert XP-800",
       "system" : "MSX",
       "name" : "Gradiente Expert XP-800",
@@ -386,7 +387,7 @@
       "md5" : "1ba0284c65515c01e41cad00fa667145",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Hitachi MB-H1",
       "system" : "MSX",
       "name" : "Hitachi MB-H1",
@@ -394,7 +395,7 @@
       "md5" : "79243688357bfc99886d3f6a62b31039",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX - Hitachi MB-H1E",
       "system" : "MSX",
       "name" : "Hitachi MB-H1E",
@@ -466,7 +467,7 @@
       "md5" : "c7b85fc986a9b0247dd9a3a88df5f4ae",
       "version" : 3
     },
-	{
+    {
       "id" : "MSX - Mitsubishi ML-F120 (m)",
       "system" : "MSX",
       "name" : "Mitsubishi ML-F120 (m)",
@@ -490,7 +491,7 @@
       "md5" : "ab93dd7bb4f26c21aa908be00fc4ff91",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Mitsubishi ML-F80F",
       "system" : "MSX",
       "name" : "Mitsubishi ML-F80F",
@@ -506,7 +507,7 @@
       "md5" : "2ad6a44309181c1c78ed75083780b6a3",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX - Mitsubishi ML-FX2",
       "system" : "MSX",
       "name" : "Mitsubishi ML-FX2",
@@ -538,7 +539,7 @@
       "md5" : "71bcd4fd6fb47c1c0f1a0bc3ee295c13",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - National CF-2700 (a)",
       "system" : "MSX",
       "name" : "National CF-2700 (a)",
@@ -602,7 +603,7 @@
       "md5" : "21a420fb1a14c7006d6f71644eea2af2",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Panasonic CF-2700",
       "system" : "MSX",
       "name" : "Panasonic CF-2700",
@@ -730,7 +731,7 @@
       "md5" : "f51fc14f46d4c746a6b58b911feb0f9e",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Sanyo MPC-10",
       "system" : "MSX",
       "name" : "Sanyo MPC-10",
@@ -754,7 +755,7 @@
       "md5" : "3fbdb07c6d0ecdfa3b06909613734b18",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX - Sanyo MPC-5",
       "system" : "MSX",
       "name" : "Sanyo MPC-5",
@@ -762,7 +763,7 @@
       "md5" : "cbb19c6e7cdde1df706c6860c06f919d",
       "version" : 1
     },
-		{
+    {
       "id" : "MSX - Sanyo MPC-6",
       "system" : "MSX",
       "name" : "Sanyo MPC-6",
@@ -786,7 +787,7 @@
       "md5" : "73b6729527a1221c5d580d86a8dc6ac6",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Sanyo PHC-28P",
       "system" : "MSX",
       "name" : "Sanyo PHC-28P",
@@ -834,7 +835,7 @@
       "md5" : "3bead5ad9c0f577485982e34f00b617f",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Sharp HB-8000-14",
       "system" : "MSX",
       "name" : "Sharp HB-8000-14",
@@ -842,7 +843,7 @@
       "md5" : "ac3b541cd7137aa67363bc4d97ee141c",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Sincorp SBX",
       "system" : "MSX",
       "name" : "Sincorp SBX",
@@ -858,7 +859,7 @@
       "md5" : "faa48cd082a5f2225427e2537169492c",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Sony HB-101",
       "system" : "MSX",
       "name" : "Sony HB-101",
@@ -930,7 +931,7 @@
       "md5" : "fd95d5945961675ff5ac6703287f3180",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Sony HB-701",
       "system" : "MSX",
       "name" : "Sony HB-701",
@@ -978,7 +979,7 @@
       "md5" : "034c637c887410b5c70707183676e1ec",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Spectravideo SVI-728 Arabic",
       "system" : "MSX",
       "name" : "Spectravideo SVI-728 Arabic",
@@ -994,7 +995,7 @@
       "md5" : "c145226ed704bf381d5395266f21570d",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Spectravideo SVI-728 Spanish",
       "system" : "MSX",
       "name" : "Spectravideo SVI-728 Spanish",
@@ -1186,7 +1187,7 @@
       "md5" : "d679ff175c71ed98b184c5b7a5e882ba",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Toshiba HX-51",
       "system" : "MSX",
       "name" : "Toshiba HX-51",
@@ -1194,7 +1195,7 @@
       "md5" : "7001f3082b7924fd13de23dbef3afdf0",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Toshiba HX-51I",
       "system" : "MSX",
       "name" : "Toshiba HX-51I",
@@ -1202,7 +1203,7 @@
       "md5" : "7d93197f8fad51878cb4fcc9b380b53c",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Toshiba HX-52",
       "system" : "MSX",
       "name" : "Toshiba HX-52",
@@ -1210,7 +1211,7 @@
       "md5" : "d2691756cb0839846fa4f3334d640865",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Toshiba HX-52I",
       "system" : "MSX",
       "name" : "Toshiba HX-52I",
@@ -1218,7 +1219,7 @@
       "md5" : "e03b0b044f976bb3329fd50ce6661f9f",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Victor HC-30",
       "system" : "MSX",
       "name" : "Victor HC-30",
@@ -1226,7 +1227,7 @@
       "md5" : "69be9c63183a2294da9cf0774ee9983c",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Victor HC-5",
       "system" : "MSX",
       "name" : "Victor HC-5",
@@ -1234,7 +1235,7 @@
       "md5" : "b899a01edde6c713f687732b8998b5f3",
       "version" : 2
     },
-	 {
+    {
       "id" : "MSX - Victor HC-6",
       "system" : "MSX",
       "name" : "Victor HC-6",
@@ -1242,7 +1243,7 @@
       "md5" : "a5baf687806cffd5eb81adb168ed2609",
       "version" : 2
     }, 
-		{
+    {
       "id" : "MSX - Victor HC-60",
       "system" : "MSX",
       "name" : "Victor HC-60",
@@ -1250,7 +1251,7 @@
       "md5" : "83568cfffa18bace8f27f6eee4522231",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Victor HC-7",
       "system" : "MSX",
       "name" : "Victor HC-7",
@@ -1258,7 +1259,7 @@
       "md5" : "e6ae960f7b2c5f10fa873a80449d46bf",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX - Yamaha CX11",
       "system" : "MSX",
       "name" : "Yamaha CX11",
@@ -1314,7 +1315,7 @@
       "md5" : "68efe1b33cb5286e5a451ed674670b9f",
       "version" : 3
     },
-	{
+    {
       "id" : "MSX - Yamaha SX-100",
       "system" : "MSX",
       "name" : "Yamaha SX-100",
@@ -1346,7 +1347,7 @@
       "md5" : "b9bae39ca8594d26209730fe82d8fd2e",
       "version" : 3
     },
-	{
+    {
       "id" : "MSX - Yamaha YIS503M",
       "system" : "MSX",
       "name" : "Yamaha YIS503M",
@@ -1362,7 +1363,7 @@
       "md5" : "c94f579e642a69087d7cd520e24913af",
       "version" : 3
     },
-	{
+    {
       "id" : "MSX - Yamaha YIS503IIR-Student",
       "system" : "MSX",
       "name" : "Yamaha YIS503IIR-Student",
@@ -1370,7 +1371,7 @@
       "md5" : "cc48205d7d91764b7ade967abc44e617",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Yamaha YIS503IIR-Teacher",
       "system" : "MSX",
       "name" : "Yamaha YIS503IIR-Teacher",
@@ -1378,7 +1379,7 @@
       "md5" : "55ae0458d7fc9a29ec65e91478b98242",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Yamaha YIS503IIR Estonian-Student",
       "system" : "MSX",
       "name" : "Yamaha YIS503IIR Estonian-Student",
@@ -1386,7 +1387,7 @@
       "md5" : "38d7edb374f8c4d350117dffb8236c4b",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Yamaha YIS503IIR Estonian-Teacher",
       "system" : "MSX",
       "name" : "Yamaha YIS503IIR Estonian-Teacher",
@@ -1394,7 +1395,7 @@
       "md5" : "f9930d08ca4af70808650d68d5a92070",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Yamaha YIS513",
       "system" : "MSX",
       "name" : "Yamaha YIS513",
@@ -1402,7 +1403,7 @@
       "md5" : "c5599f2c9edc53380b110c7784211735",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX - Yamaha YIS603",
       "system" : "MSX",
       "name" : "Yamaha YIS603",
@@ -1442,7 +1443,7 @@
       "md5" : "df2954eff67c224ee4d591395e526a97",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2 - Al Alamiah AX-350IIF",
       "system" : "MSX2",
       "name" : "Al Alamiah AX-350IIF",
@@ -1474,7 +1475,7 @@
       "md5" : "51fec2bd6dc63e7d59e38ace790e1e87",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Ascii One Chip MSX East",
       "system" : "MSX2",
       "name" : "Ascii One Chip MSX East",
@@ -1482,7 +1483,7 @@
       "md5" : "2e15b1370f1e0720b13f6ce984255991",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2 - Ascii One Chip MSX West",
       "system" : "MSX2",
       "name" : "Ascii One Chip MSX West",
@@ -1642,7 +1643,7 @@
       "md5" : "a9a76c4d274cc09bc7118ddcfea2b887",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2 - Hitachi MB-H3",
       "system" : "MSX2",
       "name" : "Hitachi MB-H3",
@@ -1650,7 +1651,7 @@
       "md5" : "ff1df293805207b6c1fff7b065b1be74",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2 - Hitachi MB-H70",
       "system" : "MSX2",
       "name" : "Hitachi MB-H70",
@@ -1682,7 +1683,7 @@
       "md5" : "e9565534ea1c702c2372202466af54a3",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Laser MSX2",
       "system" : "MSX2",
       "name" : "Laser MSX2",
@@ -1730,7 +1731,7 @@
       "md5" : "14d761d55b933e303a83b01b2656906c",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Mitsubishi ML-TS2",
       "system" : "MSX2",
       "name" : "Mitsubishi ML-TS2",
@@ -1842,7 +1843,7 @@
       "md5" : "893c876b3cd64bb80ba2afcd766df6d8",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Perfect MSX-2",
       "system" : "MSX2",
       "name" : "Perfect MSX-2",
@@ -1994,7 +1995,7 @@
       "md5" : "ff81de2f60c677e3e60a19165a74f7d5",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Philips VG-8235-20",
       "system" : "MSX2",
       "name" : "Philips VG-8235-20",
@@ -2010,7 +2011,7 @@
       "md5" : "a85ae779ba02e305c558bf3b8af2f645",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Philips VG-8235G",
       "system" : "MSX2",
       "name" : "Philips VG-8235G",
@@ -2050,7 +2051,7 @@
       "md5" : "3c5ee5b2f54456fdd05dbfeb8ca968c8",
       "version" : 3
     },
-	{
+    {
       "id" : "MSX2 - Sanyo MPC-2500FD",
       "system" : "MSX2",
       "name" : "Sanyo MPC-2500FD",
@@ -2066,7 +2067,7 @@
       "md5" : "6669a7e3f03f2aca6c0abe5f2171f4f3",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Sanyo Wavy MPC-27",
       "system" : "MSX2",
       "name" : "Sanyo Wavy MPC-27",
@@ -2154,7 +2155,7 @@
       "md5" : "86502c48f7345cd74c0456a9fccafc20",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Sony HB-F500-2",
       "system" : "MSX2",
       "name" : "Sony HB-F500-2",
@@ -2266,7 +2267,7 @@
       "md5" : "3e9a5c87a4b184b62c39f036b2c94885",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2 - Sony HB-G900D",
       "system" : "MSX2",
       "name" : "Sony HB-G900D",
@@ -2274,7 +2275,7 @@
       "md5" : "e347a3f4ee88e073f541e9354e5c78d5",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Sony HB-G900F",
       "system" : "MSX2",
       "name" : "Sony HB-G900F",
@@ -2290,7 +2291,7 @@
       "md5" : "5c6cf9882ad9dcfc80c2d2f5c6736723",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2 - Sony HB-T600",
       "system" : "MSX2",
       "name" : "Sony HB-T600",
@@ -2298,7 +2299,7 @@
       "md5" : "0d3f18fe7c8ed95fb54b15c1867817bd",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2 - Sony HB-T7",
       "system" : "MSX2",
       "name" : "Sony HB-T7",
@@ -2482,7 +2483,7 @@
       "md5" : "379bd9a6dbf0d63ebaa86159fddc0003",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Yamaha YIS604",
       "system" : "MSX2",
       "name" : "Yamaha YIS604",
@@ -2498,7 +2499,7 @@
       "md5" : "5d2c65c3f10d228ce94cf6de74fdb3b8",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2 - Yamaha YIS805-128",
       "system" : "MSX2",
       "name" : "Yamaha YIS805-128",
@@ -2522,7 +2523,7 @@
       "md5" : "8651021525c3a8968b7c7e7dda3e979f",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2 - Yamaha YIS805-256",
       "system" : "MSX2",
       "name" : "Yamaha YIS805-256",
@@ -2530,7 +2531,7 @@
       "md5" : "89107f72ed771467b95efca7f41e0c50",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2+ - Arabic",
       "system" : "MSX2+",
       "name" : "Arabic",
@@ -2546,7 +2547,7 @@
       "md5" : "7661c0c4fe2d3062233153ba1720bf20",
       "version" : 2
     },
-		{
+    {
       "id" : "MSX2+ - Ascii One Chip MSX+ East",
       "system" : "MSX2+",
       "name" : "Ascii One Chip MSX+ East",
@@ -2554,7 +2555,7 @@
       "md5" : "a8f452b655b9cdc9852fecbfafe42e6e",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Ascii One Chip MSX+ West",
       "system" : "MSX2+",
       "name" : "Ascii One Chip MSX+ West",
@@ -2570,7 +2571,7 @@
       "md5" : "782f6e3f1f5cfb95350e3a78ab6585bd",
       "version" : 4
     },
-	{
+    {
       "id" : "MSX2+ - Ciel Expert AC88+",
       "system" : "MSX2+",
       "name" : "Ciel Expert AC88+",
@@ -2586,7 +2587,7 @@
       "md5" : "6b3e215a4164ace9eecef578221b9bfa",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Ciel Expert 3 IDE Turbo",
       "system" : "MSX2+",
       "name" : "Ciel Expert 3 IDE Turbo",
@@ -2594,7 +2595,7 @@
       "md5" : "133752d8feced6dfac9ae8fcdf96d9b7",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Ciel Expert 3 Normal",
       "system" : "MSX2+",
       "name" : "Ciel Expert 3 Normal",
@@ -2610,7 +2611,7 @@
       "md5" : "19a632942c2e223e976493cdd12e2130",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2+ - Daewoo Zemmix Neo",
       "system" : "MSX2+",
       "name" : "Daewoo Zemmix Neo",
@@ -2618,7 +2619,7 @@
       "md5" : "5bce2dba5aab2734c7deee7435ad9cca",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Estonian",
       "system" : "MSX2+",
       "name" : "Estonian",
@@ -2642,7 +2643,7 @@
       "md5" : "3a10e29c953bcad87f37c633c82c1f61",
       "version" : 3
     },
-	{
+    {
       "id" : "MSX2+ - German",
       "system" : "MSX2+",
       "name" : "German",
@@ -2666,7 +2667,7 @@
       "md5" : "9c1140eebb60ac3aca42e7c5c33de83f",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2+ - Gradiente Expert GPC-30",
       "system" : "MSX2+",
       "name" : "Gradiente Expert GPC-30",
@@ -2682,7 +2683,7 @@
       "md5" : "cfe4f852a422518910fd86d910401aec",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Korean",
       "system" : "MSX2+",
       "name" : "Korean",
@@ -2706,7 +2707,7 @@
       "md5" : "b7344e7e31d08561e4fda9faa824e857",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Panasonic FS-A1FX Luppie",
       "system" : "MSX2+",
       "name" : "Panasonic FS-A1FX Luppie",
@@ -2738,7 +2739,7 @@
       "md5" : "ed62dab03340b9c0de5ea396f20b3cd4",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Philips NMS-8280+",
       "system" : "MSX2+",
       "name" : "Philips NMS-8280+",
@@ -2754,7 +2755,7 @@
       "md5" : "6a41765bf39bd364eb33d19cb9570177",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2+ - Philips NMS-8280G+",
       "system" : "MSX2+",
       "name" : "Philips NMS-8280G+",
@@ -2762,7 +2763,7 @@
       "md5" : "5e0827c872e46db454a18e7d0724f716",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2+ - Russian",
       "system" : "MSX2+",
       "name" : "Russian",
@@ -2794,7 +2795,7 @@
       "md5" : "60a3a4f71e2d5f12e3436ee4a0954349",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Sharp HB-8000-2+",
       "system" : "MSX2+",
       "name" : "Sharp HB-8000-2+",
@@ -2818,7 +2819,7 @@
       "md5" : "6f0688352338049566feba919c93c507",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Sony HB-F700D+",
       "system" : "MSX2+",
       "name" : "Sony HB-F700D+",
@@ -2826,7 +2827,7 @@
       "md5" : "fbb1a76f34ed41012b51e25759fb3823",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Sony HB-F700F+",
       "system" : "MSX2+",
       "name" : "Sony HB-F700F+",
@@ -2834,7 +2835,7 @@
       "md5" : "98c47e11615eccb87cf583f54ecf65af",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2+ - Sony HB-F700P+",
       "system" : "MSX2+",
       "name" : "Sony HB-F700P+",
@@ -2842,7 +2843,7 @@
       "md5" : "a7a1a8419c1d495b8eb0af9c9949d274",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2+ - Sony HB-F700S+",
       "system" : "MSX2+",
       "name" : "Sony HB-F700S+",
@@ -2850,7 +2851,7 @@
       "md5" : "96fa68a88fd6b2d09302d8fc5f2ead90",
       "version" : 2
     },
-	{
+    {
       "id" : "MSX2+ - Sony HB-F9P+",
       "system" : "MSX2+",
       "name" : "Sony HB-F9P+",
@@ -2866,7 +2867,7 @@
       "md5" : "649c80b001766fa053596480e918b123",
       "version" : 3
     },
-	{
+    {
       "id" : "MSX2+ - Spanish",
       "system" : "MSX2+",
       "name" : "Spanish",
@@ -2882,7 +2883,7 @@
       "md5" : "01dec4441de98a9b285292eeb4448d6e",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Talent TPC-310+",
       "system" : "MSX2+",
       "name" : "Talent TPC-310+",
@@ -2890,7 +2891,7 @@
       "md5" : "e86fd588bdfaa213cd399e3412621fc9",
       "version" : 1
     },
-	{
+    {
       "id" : "MSX2+ - Toshiba FS-TM1+",
       "system" : "MSX2+",
       "name" : "Toshiba FS-TM1+",
@@ -2898,7 +2899,7 @@
       "md5" : "f06797ae9c5813ba83a690db78a608d4",
       "version" : 1
     },
-	{ 
+    { 
       "id" : "MSX2+ - Yamaha YIS805-256-2+",
       "system" : "MSX2+",
       "name" : "Yamaha YIS805-256-2+",
@@ -2906,7 +2907,7 @@
       "md5" : "538fd5ca52bc58281716137af9f8b01c",
       "version" : 2
     },
-	{
+    {
       "id" : "MSXturboR - Arabic",
       "system" : "MSXturboR",
       "name" : "Arabic",
@@ -2914,7 +2915,7 @@
       "md5" : "e1667ca79197901e60d18aa97571c53b",
       "version" : 2
     },
-	{
+    {
       "id" : "MSXturboR - Brazilian",
       "system" : "MSXturboR",
       "name" : "Brazilian",
@@ -2922,7 +2923,7 @@
       "md5" : "f8ab5dbd770ddbdc52905916e5b30f16",
       "version" : 1
     },
-	{
+    {
       "id" : "MSXturboR - Estonian",
       "system" : "MSXturboR",
       "name" : "Estonian",
@@ -2938,7 +2939,7 @@
       "md5" : "968f0d89414561151795d74c393e60e6",
       "version" : 4
     },
-	{
+    {
       "id" : "MSXturboR - French",
       "system" : "MSXturboR",
       "name" : "French",
@@ -2946,7 +2947,7 @@
       "md5" : "3857393e6002a00db2beff750f2cbac8",
       "version" : 3
     },
-	{
+    {
       "id" : "MSXturboR - German",
       "system" : "MSXturboR",
       "name" : "German",
@@ -2962,7 +2963,7 @@
       "md5" : "b0bef7d6826449d2cf16b5f8fd8fce9c",
       "version" : 2
     },
-	{
+    {
       "id" : "MSXturboR - Korean",
       "system" : "MSXturboR",
       "name" : "Korean",
@@ -3002,7 +3003,7 @@
       "md5" : "606189502cd999cfcde5e0074dcd5d12",
       "version" : 1
     },
-	{
+    {
       "id" : "MSXturboR - Russian",
       "system" : "MSXturboR",
       "name" : "Russian",
@@ -3010,7 +3011,7 @@
       "md5" : "9e1e6b74a829efff98e299836ec8af89",
       "version" : 2
     },
-	{
+    {
       "id" : "MSXturboR - Spanish",
       "system" : "MSXturboR",
       "name" : "Spanish",
@@ -3018,7 +3019,7 @@
       "md5" : "cca7e994eafd773311a0ea9e4ce07725",
       "version" : 2
     },
-	{ 
+    { 
       "id" : "MSXturboR - Yamaha YIS805-512-TR",
       "system" : "MSXturboR",
       "name" : "Yamaha YIS805-512-TR",
