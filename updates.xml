@@ -6,6 +6,47 @@
       <description>CocoaMSX version updates</description>
       <language>en</language>
          <item>
+            <title>Version 1.55</title>
+              <description>
+                <![CDATA[
+                  <html>
+                    <head>
+                      <style type="text/css">
+                        body {
+                          font-size: 9pt;
+                        }
+                      </style>
+                    </head>
+                    <body>
+                      <ul>
+                        <li>**Minimum version of OS X supported is now 10.7**</li>
+                        <li>Proper support for CAS files for non-generic systems</li>
+                        <li>Option to insert a new blank cassette</li>
+                        <li>Automatic idle cursor hiding</li>
+                        <li>Can now flip between tabs in Preferences by using shortcuts (⌘+{/})</li>
+                        <li>Redesigned gamepad/joystick support - individual gamepads/joysticks can now be remapped</li>
+                        <li>Removed file type registration for unsupported (non-MSX) systems</li>
+                        <li>System shortcuts (e.g. CTRL+RIGHT) should no longer interfere with game controls. An unfortunate side-effect of this is that it affects all system shortcuts - including ⌘+TAB</li>
+                        <li>Escape key should no longer cancel full screen mode</li>
+                        <li>Updated to the latest version of Sparkle</li>
+                      </ul>
+                      <p><a href="https://github.com/pokebyte/CocoaMSX/releases/v1.55">Full list of changes</a></p>
+                    </body>
+                  </html>
+                ]]>
+              </description>
+            <pubDate>Sat, 11 Jun 2016 13:06:42 -0700</pubDate>
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+            <enclosure
+               url="https://github.com/pokebyte/CocoaMSX/releases/download/v1.55/CocoaMSX-1.55.dmg"
+               length="4393610"
+               type="application/octet-stream"
+               sparkle:version="20"
+               sparkle:shortVersionString="1.55"
+               sparkle:dsaSignature="MCwCFHKx+jygD4nXyoi0YrY8fnVv9+MMAhRaAsvqHPngoF01TwwmTQQbCnQTsA=="
+            />
+         </item>
+         <item>
             <title>Version 1.45</title>
               <description>
                 <![CDATA[
