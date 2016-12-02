@@ -2,9 +2,43 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
       <title>CocoaMSX Changelog</title>
-      <link>http://www.cocoamsx.com/updates.xml</link>
+      <link>https://www.cocoamsx.com/updates.xml</link>
       <description>CocoaMSX version updates</description>
       <language>en</language>
+         <item>
+            <title>Version 1.60</title>
+              <description>
+                <![CDATA[
+                  <html>
+                    <head>
+                      <style type="text/css">
+                        body {
+                          font-size: 9pt;
+                        }
+                      </style>
+                    </head>
+                    <body>
+                      <ul>
+                        <li>New feature - Save state on exit</li>
+                        <li>Fixed copy/paste bug that resulted in corruption during paste</li>
+                        <li>Fixed http download error</li>
+                      </ul>
+                      <p><a href="https://github.com/CocoaMSX/CocoaMSX/releases/v1.60">Full list of changes</a></p>
+                    </body>
+                  </html>
+                ]]>
+              </description>
+            <pubDate>Thu, 01 Dec 2016 23:09:52 -0800</pubDate>
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+            <enclosure
+               url="https://github.com/CocoaMSX/CocoaMSX/releases/download/v1.60/CocoaMSX-1.60.dmg"
+               length="4066743"
+               type="application/octet-stream"
+               sparkle:version="23"
+               sparkle:shortVersionString="1.60"
+               sparkle:dsaSignature="MCwCFExGsuKyLjqIU2EzA0WqdL0aqkdqAhQbaJa1l64VuLj6qiJTvhOdwgokoA=="
+            />
+         </item>
          <item>
             <title>Version 1.56</title>
               <description>
