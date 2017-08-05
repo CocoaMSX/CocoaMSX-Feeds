@@ -6,6 +6,38 @@
       <description>CocoaMSX version updates</description>
       <language>en</language>
          <item>
+            <title>Version 1.61</title>
+              <description>
+                <![CDATA[
+                  <html>
+                    <head>
+                      <style type="text/css">
+                        body {
+                          font-size: 9pt;
+                        }
+                      </style>
+                    </head>
+                    <body>
+                      <ul>
+                        <li>Updated to C-BIOS v0.28 (fixes brackets, issue #44)</li>
+                      </ul>
+                      <p><a href="https://github.com/CocoaMSX/CocoaMSX/releases/v1.61">Full list of changes</a></p>
+                    </body>
+                  </html>
+                ]]>
+              </description>
+            <pubDate>Sat, 05 Aug 2017 10:38:28 -0700</pubDate>
+            <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
+            <enclosure
+               url="https://github.com/CocoaMSX/CocoaMSX/releases/download/v1.61/CocoaMSX-1.61.dmg"
+               length="4036435"
+               type="application/octet-stream"
+               sparkle:version="24"
+               sparkle:shortVersionString="1.61"
+               sparkle:dsaSignature="MCwCFDpK7dW7TLnOEK2ZIhmCrIn3sD65AhQw+et7qn8FPcI7C9Sb5HYR91kcnQ=="
+            />
+         </item>
+         <item>
             <title>Version 1.60</title>
               <description>
                 <![CDATA[
